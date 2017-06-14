@@ -20,3 +20,11 @@
 |--------|---------------------|----------
 |439D8738|Link's Gravity       |3F800000 = 1x Gravity (Normal)
 |439D8724|Link's Speed         |3F800000 = 1x Speed (Normal)
+
+## _Weather & Skybox_ (v1.2.0, USA)
+|Address |    What the value is    |   Notes
+|--------|-------------------------|----------
+|407CE158|Lightning strike Interval|Normal delay is about 00000080
+|3FF8E72B|If Blood moon is tonight |00000000 = False, 00000001 = True
+|407CDDA8|Clouds                   |00000000 = Off, 3F800000 = On
+|407CDE1C|Current Weather          |None
