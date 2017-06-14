@@ -1,4 +1,4 @@
-# Pointer notes for Breath of the Wild (v1.2.0, USA)
+# Pointer notes for Breath of the Wild
 
 #### This file contains information about certain Pointers and where they lead to.
 
