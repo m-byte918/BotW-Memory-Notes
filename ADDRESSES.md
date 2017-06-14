@@ -20,6 +20,3 @@
 |--------|---------------------|----------
 |439D8738|Link's Gravity       |3F800000 = 1x Gravity (Normal)
 |439D8724|Link's Speed         |3F800000 = 1x Speed (Normal)
-|11BC5B40|Link's Position X    |Coordinate on Map
-|11BC5B48|Link's Position Y    |Coordinate on Map
-|11BC5B44|Link's Position Z    |Coordinate on Map
