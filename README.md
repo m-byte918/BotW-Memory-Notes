@@ -4,8 +4,7 @@
 
 I've only included the information I know of at the moment.
 
-If you know of any more Addresses/Pointer information or if I got something wrong, feel free to edit the files.
-_**Anyone can edit these files**_, just make sure whatever you add has something to do with the list below!
+If you know of any more Addresses/Pointer information or if I got something wrong, feel free to create a pull request. Just make sure whatever you add has something to do with the list below!
 
 Includes:
 
