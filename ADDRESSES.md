@@ -2,8 +2,6 @@
 #### This file contains information about certain Addresses and what they do.
 
 ## _Runes_ (v1.2.0, USA)
-These addresses apply to the stasis and magnesis runes. Need to add other runes later.
-
 |Address |  What the value is  |   Notes
 |--------|---------------------|----------
 |43856C88|Crosshair Target's ID|00000000 = No object within crosshairs
@@ -12,13 +10,14 @@ These addresses apply to the stasis and magnesis runes. Need to add other runes 
 |43856CD0|Stasis Cooldown Timer|None
 |43856B3C|Magnesis State       |00000000 = Not Scanning, 01000000 = Scanning
 |43F1EBF0|Cryonis State        |00000000 = Not Scanning, 01000000 = Scanning
+|43859B24|# of Cryonis Blocks  |Increments by 00000001 per block
+|43859BC8|Cryonis Cooldown Time|None 
 |43856C44|Remote Bomb+ Cooldown|Square bomb only
 |43856C5C|Remote Bomb+ Cooldown|Circular bomb only
 
 ## _Link's data_ (v1.2.0, USA)
 |Address |  What the value is  |   Notes
 |--------|---------------------|----------
-|4398F294|Link's Current Health|Number of HP is in Decimal 
 |439D8738|Link's Gravity       |3F800000 = 1x Gravity (Normal)
 |439D8724|Link's Speed         |3F800000 = 1x Speed (Normal)
 |11BC5B40|Link's Position X    |Coordinate on Map
