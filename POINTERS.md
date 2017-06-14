@@ -27,3 +27,9 @@ Object structure also includes structure for enemies.
 _*_ 1040 = 00001040 (16-bit value).
 
 _*_ X's are bits that may vary depending on the object.
+
+## _Link's data_ (v1.2.0, USA)
+|  Pointer Notation  | Address it points to |          Notes
+|--------------------|----------------------|------------------------
+|[439D89A4] + 0x140  |Link's Coordinates    |Relative to map. Order: YZX
+|[42274980] + 0x388  |Link's Health         |Number of HP is in Decimal
