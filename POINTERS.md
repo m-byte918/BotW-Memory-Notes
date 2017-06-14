@@ -34,18 +34,18 @@ _*_ X's are bits that may vary depending on the object.
 |[439D89A4] + 0x140  |Link's Coordinates    |Relative to map. Order: YZX
 |[42274980] + 0x388  |Link's Health         |Number of HP is in Decimal
 
-## _Gear_ (v1.2.0, USA)
-|       Pointer Notation    |   Address it points to  |          Notes
-|---------------------------|-------------------------|-------------------------
-|[[451A0A4C] + 0x40] + 0x980|Current Bow Durability   |Durability Number is in Decimal
-|[[451A0A4C] + 0x40] + 0x998|Current Bow Height       |3F800000 = Normal Height
-|[[451A0A4C] + 0x40] + 0x990|Current Bow Length       |3F800000 = Normal Length
-|[[451A0A4C] + 0x40] + 0x994|Current Bow Width        |3F800000 = Normal Width
-|[[451A09F0] + 0x40] + 0x980|Current Sheild Durability|Durability Number is in Decimal
-|[[451A09F0] + 0x40] + 0x998|Current Sheild Height    |3F800000 = Normal Height
-|[[451A09F0] + 0x40] + 0x990|Current Sheild Length    |3F800000 = Normal Length
-|[[451A09F0] + 0x40] + 0x994|Current Sheild Width     |3F800000 = Normal Width
-|[[451A0994] + 0x40] + 0x980|Current Weapon Durability|Durability Number is in Decimal
-|[[451A0994] + 0x40] + 0x998|Current Weapon Height    |3F800000 = Normal Height
-|[[451A0994] + 0x40] + 0x990|Current Weapon Length    |3F800000 = Normal Length
-|[[451A0994] + 0x40] + 0x994|Current Weapon Width     |3F800000 = Normal Width
+## _Gear_ (All Versions, USA)
+|                 Pointer Notation               |   Address it points to  |          Notes
+|------------------------------------------------|-------------------------|-------------------------
+|[[[[101C1D40] + 0x2580] + 0xBDC] + 0x40] + 0x980|Current Bow Durability   |Durability Number is in Decimal
+|[[[[101C1D40] + 0x2580] + 0xBDC] + 0x40] + 0x998|Current Bow Height       |3F800000 = Normal Height
+|[[[[101C1D40] + 0x2580] + 0xBDC] + 0x40] + 0x990|Current Bow Length       |3F800000 = Normal Length
+|[[[[101C1D40] + 0x2580] + 0xBDC] + 0x40] + 0x994|Current Bow Width        |3F800000 = Normal Width
+|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0x980|Current Sheild Durability|Durability Number is in Decimal
+|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0x998|Current Sheild Height    |3F800000 = Normal Height
+|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0x990|Current Sheild Length    |3F800000 = Normal Length
+|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0x994|Current Sheild Width     |3F800000 = Normal Width
+|[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0x980|Current Weapon Durability|Durability Number is in Decimal
+|[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0x998|Current Weapon Height    |3F800000 = Normal Height
+|[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0x990|Current Weapon Length    |3F800000 = Normal Length
+|[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0x994|Current Weapon Width     |3F800000 = Normal Width
