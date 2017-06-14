@@ -1,4 +1,4 @@
-# Address notes for Breath of the Wild (v1.2.0, USA)
+# Address notes for Breath of the Wild
 #### This file contains information about certain Addresses and what they do.
 
 ## _Runes_ (v1.2.0, USA)
