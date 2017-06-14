@@ -50,6 +50,16 @@ These addresses apply to the stasis and magnesis runes. Need to add other runes 
 |43856B5C|Crosshair Position Y |None
 |43856B54|Crosshair Position Z |None
 
+## Addresses - _Link's data_ (v1.2.0, USA)
+|Address |  What the value is  |   Notes
+|--------|---------------------|----------
+|4398F294|Link's Current Health|Number of HP is in Decimal 
+|439D8738|Link's Gravity       |3F800000 = 1x Gravity (Normal)
+|439D8724|Link's Speed         |3F800000 = 1x Speed (Normal)
+|11BC5B40|Link's Position X    |Coordinate on Map
+|11BC5B48|Link's Position Y    |Coordinate on Map
+|11BC5B44|Link's Position Z    |Coordinate on Map
+
 ## Full BotW Memory Dump (v1.2.0, USA)
 From Addresses 0C900000 to 4C8A0000. Can be used to create pointers from any starting address without creating new dumps every time.
 I recommend using BullyWiiPlaza's [Universal Pointer Searcher](https://github.com/BullyWiiPlaza/Universal-Pointer-Searcher) to create pointers using this dump.
