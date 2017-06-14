@@ -8,13 +8,11 @@ I've only included the addresses/pointers that I know of at the moment.
 If you know of any more that aren't on this list or if I got something wrong, feel free to edit it.
 _**Anyone can edit this file**_, just make sure whatever you add has something to do with the list below!
 
-Information includes:
+Includes:
 
-* Address Locations
-* What certain Addresses are for
-* What certain Addresses do
-* Pointer locations, where they lead to, etc
-* Memory dump of every address (for creating pointers)
+* [Address Information, what they do, etc](#addresses---runes-v120-usa)
+* [Pointer locations, where they lead to, etc](#pointers---object-structure-v120-usa)
+* [Memory dump of every address (for creating pointers)](#full-botw-memory-dump-v120-usa)
 
 ## Pointers - _Object Structure_ (v1.2.0, USA)
 All of these stem from the address "43856C88", which is what you are pointing at with the stasis or magnesis rune. 
@@ -51,3 +49,9 @@ These addresses apply to the stasis and magnesis runes. Need to add other runes 
 |43856B58|Crosshair Position X |None
 |43856B5C|Crosshair Position Y |None
 |43856B54|Crosshair Position Z |None
+
+## Full BotW Memory Dump (v1.2.0, USA)
+From Addresses 0C900000 to 4C8A0000. Can be used to create pointers from any starting address without creating new dumps every time.
+I recommend using BullyWiiPlaza's [Universal Pointer Searcher](https://github.com/BullyWiiPlaza/Universal-Pointer-Searcher) to create pointers using this dump.
+
+[Here is a link to the .bin download (Google Drive)](https://drive.google.com/file/d/0B_zcN8fQAOWxdUhxR25lTnlqZUU/)
