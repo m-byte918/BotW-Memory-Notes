@@ -14,6 +14,26 @@ Includes:
 * [Pointer locations, where they lead to, etc](#pointers---object-structure-v120-usa)
 * [Memory dump of every address (for creating pointers)](#full-botw-memory-dump-v120-usa)
 
+## Addresses - _Runes_ (v1.2.0, USA)
+These addresses apply to the stasis and magnesis runes. Need to add other runes later.
+
+|Address |  What the value is  |   Notes
+|--------|---------------------|----------
+|43856C88|Crosshair Target's ID|00000000 = No object within crosshairs
+|43856B58|Crosshair Position X |None
+|43856B5C|Crosshair Position Y |None
+|43856B54|Crosshair Position Z |None
+
+## Addresses - _Link's data_ (v1.2.0, USA)
+|Address |  What the value is  |   Notes
+|--------|---------------------|----------
+|4398F294|Link's Current Health|Number of HP is in Decimal 
+|439D8738|Link's Gravity       |3F800000 = 1x Gravity (Normal)
+|439D8724|Link's Speed         |3F800000 = 1x Speed (Normal)
+|11BC5B40|Link's Position X    |Coordinate on Map
+|11BC5B48|Link's Position Y    |Coordinate on Map
+|11BC5B44|Link's Position Z    |Coordinate on Map
+
 ## Pointers - _Object Structure_ (v1.2.0, USA)
 All of these stem from the address "43856C88", which is what you are pointing at with the stasis or magnesis rune. 
 Pointers will only "point" to the correct address/value if you have the rune's crosshairs on a valid object. Otherwise
@@ -39,26 +59,6 @@ Object structure also includes structure for enemies.
 _*_ 1040 = 00001040 (16-bit value).
 
 _*_ X's are bits that may vary depending on the object.
-
-## Addresses - _Runes_ (v1.2.0, USA)
-These addresses apply to the stasis and magnesis runes. Need to add other runes later.
-
-|Address |  What the value is  |   Notes
-|--------|---------------------|----------
-|43856C88|Crosshair Target's ID|00000000 = No object within crosshairs
-|43856B58|Crosshair Position X |None
-|43856B5C|Crosshair Position Y |None
-|43856B54|Crosshair Position Z |None
-
-## Addresses - _Link's data_ (v1.2.0, USA)
-|Address |  What the value is  |   Notes
-|--------|---------------------|----------
-|4398F294|Link's Current Health|Number of HP is in Decimal 
-|439D8738|Link's Gravity       |3F800000 = 1x Gravity (Normal)
-|439D8724|Link's Speed         |3F800000 = 1x Speed (Normal)
-|11BC5B40|Link's Position X    |Coordinate on Map
-|11BC5B48|Link's Position Y    |Coordinate on Map
-|11BC5B44|Link's Position Z    |Coordinate on Map
 
 ## Full BotW Memory Dump (v1.2.0, USA)
 From Addresses 0C900000 to 4C8A0000. Can be used to create pointers from any starting address without creating new dumps every time.
