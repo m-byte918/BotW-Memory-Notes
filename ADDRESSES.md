@@ -16,10 +16,14 @@
 |43856C5C|Remote Bomb+ Cooldown|Circular bomb only
 
 ## _Link's data_ (v1.2.0, USA)
-|Address |  What the value is  |   Notes
-|--------|---------------------|----------
-|439D8738|Link's Gravity       |3F800000 = 1x Gravity (Normal)
-|439D8724|Link's Speed         |3F800000 = 1x Speed (Normal)
+|Address |  What the value is     |   Notes
+|--------|------------------------|----------
+|439D8738|Link's Gravity          |3F800000 = 1x Gravity (Normal)
+|439D8724|Link's Speed            |3F800000 = 1x Speed (Normal)
+|40123BA4|Current Rupees          |Rupee number is in decimal
+|424527A0|Overall Heart Containers|Float value, **4** = 1 conatiner, **120** = 30 containers
+|424527A4|Current Stamina         |Float value
+|424527A8|Overall Stamina         |Float value
 
 ## _Weather & Skybox_ (v1.2.0, USA)
 |Address |    What the value is    |   Notes
