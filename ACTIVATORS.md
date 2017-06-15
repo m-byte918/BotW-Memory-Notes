@@ -1,8 +1,14 @@
 # Button Activators for Breath of the Wild
 #### This file contains information about the Wii U Gamepad and Pro Controller button activators.
 
-## _Gamepad Button Activators_ (v1.2.0, USA)
-Controller Address: 102F48AA
+## _Gamepad Button Activators_
+Controller Address (v1.2.0, USA): 102F48AA
+
+Controller Address (v1.1.2, USA): 1127115E
+
+Controller Address (v1.1.1, USA): 1127115E
+
+Controller Address (v1.0.0, USA): ????????
 
 | Value  |    Keypress      |
 |--------|------------------|
@@ -37,8 +43,14 @@ Different button-combinations can be calculated. For example, if you want to fig
 holding down the A key would be, you would simply add the value of A to the value of R. R+A: 00008000 + 00000010 = 00008010. Same
 thing applies for the Pro Controller Button Activators below.
 
-## _Pro Controller Button Activators_ (v1.2.0, USA)
-Controller Address: 10C3CDB0
+## _Pro Controller Button Activators_
+Controller Address (v1.2.0, USA): 10C3CDB0
+
+Controller Address (v1.1.2, USA): 112671AA
+
+Controller Address (v1.1.1, USA): ????????
+
+Controller Address (v1.0.0, USA): ????????
 
 | Value  |    Keypress      |
 |--------|------------------|
