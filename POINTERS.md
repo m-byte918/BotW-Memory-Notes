@@ -29,10 +29,11 @@ _*_ 1040 = 00001040 (16-bit value).
 _*_ X's are bits that may vary depending on the object.
 
 ## _Link's data_ (v1.2.0, USA)
-|  Pointer Notation  | Address it points to |          Notes
-|--------------------|----------------------|------------------------
-|[439D89A4] + 0x140  |Link's Coordinates    |Relative to map. Order: YZX
-|[42274980] + 0x388  |Link's Health         |Number of HP is in Decimal
+| Pointer Notation |Address it points to|          Notes
+|------------------|--------------------|------------------------
+|[439D89A4] + 0x140|Link's Coordinates  |Relative to map. Order: YZX
+|[42274980] + 0x388|Link's Health       |Number of HP is in Decimal
+|[43AD1E30] + 0x770|Link's Damage       |3F800000 = Normal Damage
 
 ## _Gear_ (All Versions, USA)
 |                 Pointer Notation               |   Address it points to  |          Notes
@@ -49,3 +50,19 @@ _*_ X's are bits that may vary depending on the object.
 |[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0x998|Current Weapon Height    |3F800000 = Normal Height
 |[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0x990|Current Weapon Length    |3F800000 = Normal Length
 |[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0x994|Current Weapon Width     |3F800000 = Normal Width
+
+## _Timers_ (v1.2.0, USA)
+| Pointer Notation |Address it points to     |          Notes
+|------------------|-------------------------|------------------------
+|[43AD2220] + 0x488|Master Sword Charge Timer|40200000 = Power Restored
+|[43AD2220] + 0x470|Urbosa's Fury Timer      |Float value
+|[43AD2220] + 0x458|Revali's Gale Timer      |Float value
+|[43AD2220] + 0x464|Daruk's Protection Timer |Float value
+|[43AD2220] + 0x47C|Mipha's Grace Timer      |Float value
+
+## _Miscellaneous_ (v1.2.0, USA)
+| Pointer Notation                 |Address it points to      |          Notes
+|----------------------------------|--------------------------|------------------------
+|[42452678] + 0x2B64               |Master Sword Glow         |00000000 = Not glowing, 00000001 = Glowing
+|[10903D74] + 0x50                 |Wolf Link's Health        |Number of HP is in Decimal
+|[[3FAB6B1C] + 0xFFFFCA38] + 0x2DD8|Amount of horse whips     |Value decrements by 00010000 per whip
