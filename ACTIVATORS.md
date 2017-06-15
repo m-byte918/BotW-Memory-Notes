@@ -2,7 +2,7 @@
 #### This file contains information about the Wii U Gamepad and Pro Controller button activators.
 
 ## _Gamepad Button Activators_
-Controller Address (v1.2.0, USA): 102F48AA
+Controller Address (v1.2.0, USA): 102F48A8
 
 Controller Address (v1.1.2, USA): 1127115E
 
@@ -44,8 +44,6 @@ holding down the A key would be, you would simply add the value of A to the valu
 thing applies for the Pro Controller Button Activators below.
 
 ## _Pro Controller Button Activators_
-Controller Address (v1.2.0, USA): 10C3CDB0
-
 Controller Address (v1.1.2, USA): 112671AA
 
 Controller Address (v1.1.1, USA): ????????
@@ -79,3 +77,34 @@ Controller Address (v1.0.0, USA): ????????
 |00040000| Left Stick Left  |
 |00100000| Left Stick Down  |
 |00020000|Left Stick Button |
+
+## _Pro Controller Button Activators (v1.2.0, USA)_
+Controller Address: 11287DA7
+
+| Value  |    Keypress      |
+|--------|------------------|
+|00000001|        A         |
+|00000010|        Y         |
+|00000008|        X         |
+|00000002|        B         |
+|00001200|        -         |
+|00000C00|        +         |
+|00004000|        R         |
+|00000020|       ZR         |
+|00002000|        L         |
+|00000004|       ZL         |
+|00000100|      Home        |
+|00020000|    D-Pad Down    |
+|00040000|    D-Pad Left    |
+|00010000|     D-Pad Up     |
+|00080000|   D-Pad Right    |
+|01000000| Right Stick Up   |
+|08000000|Right Stick Right |
+|04000000|Right Stick Left  |
+|02000000|Right Stick Down  |
+|00000040|Right Stick Button|
+|00100000|  Left Stick Up   |
+|00800000|Left Stick Right  |
+|00400000| Left Stick Left  |
+|00200000| Left Stick Down  |
+|00000080|Left Stick Button |
