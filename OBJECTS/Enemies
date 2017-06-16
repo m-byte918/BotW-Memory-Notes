@@ -1,0 +1,128 @@
+Enemy_Assassin_Azito_Middle -- Yiga Blademaster
+Enemy_Assassin_Middle_Quest -- Yiga Blademaster
+Enemy_Assassin_Senior -- Master Kohga
+Enemy_Assassin_Shooter_Azito_Junior -- Yiga Footsoldier
+Enemy_Assassin_Shooter_Junior -- Yiga Footsoldier
+Enemy_Bokoblin_Bone_Junior -- Stalkoblin
+Enemy_Bokoblin_Bone_Junior:GameRomHorseBone -- Stalkoblin:Stalhorse
+Enemy_Bokoblin_Bone_Junior_AllDay -- Stalkoblin
+Enemy_Bokoblin_Guard_Junior -- Bokoblin
+Enemy_Bokoblin_Guard_Junior:GameRomHorse21 -- Bokoblin:Horse
+Enemy_Bokoblin_Guard_Junior:GameRomHorse22 -- Bokoblin:Horse
+Enemy_Bokoblin_Guard_Junior:GameRomHorse23 -- Bokoblin:Horse
+Enemy_Bokoblin_Guard_Junior_Ambush -- Bokoblin
+Enemy_Bokoblin_Guard_Junior_TreeHouseTop -- Bokoblin
+Enemy_Bokoblin_Guard_Middle -- Blue Bokoblin
+Enemy_Bokoblin_Guard_Middle_Ambush -- Blue Bokoblin
+Enemy_Bokoblin_Guard_Middle_TreeHouseTop -- Blue Bokoblin
+Enemy_Bokoblin_Junior -- Bokoblin
+Enemy_Bokoblin_Junior:GameRomHorse21 -- Bokoblin:Horse
+Enemy_Bokoblin_Junior:GameRomHorse22 -- Bokoblin:Horse
+Enemy_Bokoblin_Junior:GameRomHorse23 -- Bokoblin:Horse
+Enemy_Bokoblin_Middle -- Blue Bokoblin
+Enemy_Bokoblin_Middle:Animal_Bear_A -- Blue Bokoblin:Honeyvore Bear
+Enemy_Bokoblin_Middle:GameRomHorse21 -- Blue Bokoblin:Horse
+Enemy_Bokoblin_Middle:GameRomHorse22 -- Blue Bokoblin:Horse
+Enemy_Bokoblin_Middle:GameRomHorse23 -- Blue Bokoblin:Horse
+Enemy_Bokoblin_Senior -- Black Bokoblin
+Enemy_Bokoblin_Senior:Animal_Bear_B -- Black Bokoblin:Grizzlemaw Bear
+Enemy_Bokoblin_Senior:GameRomHorse21 -- Black Bokoblin:Horse
+Enemy_Bokoblin_Senior:GameRomHorse22 -- Black Bokoblin:Horse
+Enemy_Bokoblin_Senior:GameRomHorse23 -- Black Bokoblin:Horse
+Enemy_Chuchu_Electric_Junior -- Electric Chuchu
+Enemy_Chuchu_Electric_Middle -- Electric Chuchu
+Enemy_Chuchu_Electric_Senior -- Electric Chuchu
+Enemy_Chuchu_Fire_Junior -- Fire Chuchu
+Enemy_Chuchu_Fire_Middle -- Fire Chuchu
+Enemy_Chuchu_Fire_Senior -- Fire Chuchu
+Enemy_Chuchu_Ice_Junior -- Ice Chuchu
+Enemy_Chuchu_Ice_Middle -- Ice Chuchu
+Enemy_Chuchu_Ice_Senior -- Ice Chuchu
+Enemy_Chuchu_Junior -- Chuchu
+Enemy_Chuchu_Middle -- Chuchu
+Enemy_Chuchu_Senior -- Chuchu
+Enemy_Dragon_Electric -- Farosh
+Enemy_Dragon_Electric_Far -- Farosh
+Enemy_Dragon_Fire -- Dinraal
+Enemy_Dragon_Fire_Far -- Dinraal
+Enemy_Dragon_Grudge -- Naydra
+Enemy_Dragon_Grudge_Far -- Naydra
+Enemy_Dragon_Ice -- Naydra
+Enemy_Dragon_Ice_Far -- Naydra
+Enemy_Ganon -- Calamity Ganon
+Enemy_GanonBeast -- Dark Beast Ganon
+Enemy_Giant_Bone -- Stalnox
+Enemy_Giant_Bone_AllDay -- Stalnox
+Enemy_Giant_Junior -- Hinox
+Enemy_Giant_Middle -- Blue Hinox
+Enemy_Giant_Senior -- Black Hinox
+Enemy_Golem_Fire -- Igneo Talus
+Enemy_Golem_Ice -- Frost Talus
+Enemy_Golem_Junior -- Stone Talus
+Enemy_Golem_Little -- Stone Pebblit
+Enemy_Golem_Little_Fire -- Igneo Pebblit
+Enemy_Golem_Little_Ice -- Frost Pebblit
+Enemy_Golem_Middle -- Stone Talus (Luminous)
+Enemy_Golem_Senior -- Stone Talus (Rare)
+Enemy_Guardian_A -- Guardian Stalker
+Enemy_Guardian_A_Fixed_Moss -- Decayed Guardian
+Enemy_Guardian_A_Fixed_Sand -- Decayed Guardian
+Enemy_Guardian_A_Fixed_Snow -- Decayed Guardian
+Enemy_Guardian_A_Moss -- Guardian Stalker
+Enemy_Guardian_A_Sand -- Guardian Stalker
+Enemy_Guardian_A_Snow -- Guardian Stalker
+Enemy_Guardian_B -- Guardian Turret
+Enemy_Guardian_C -- Guardian Skywatcher
+Enemy_Keese -- Keese
+Enemy_Keese_AllDay -- Keese
+Enemy_Keese_Electric -- Electric Keese
+Enemy_Keese_Electric_AllDay -- Electric Keese
+Enemy_Keese_Fire -- Fire Keese
+Enemy_Keese_Fire_AllDay -- Fire Keese
+Enemy_Keese_Ice -- Ice Keese
+Enemy_Keese_Ice_AllDay -- Ice Keese
+Enemy_Keese_Swarm -- Keese
+Enemy_Keese_Swarm_AllDay -- Keese
+Enemy_Lizalfos_Bone_Junior -- Stalizalfos
+Enemy_Lizalfos_Electric -- Electric Lizalfos
+Enemy_Lizalfos_Electric_ForestTower -- Electric Lizalfos
+Enemy_Lizalfos_Fire -- Fire-Breath Lizalfos
+Enemy_Lizalfos_Fire_Guard_Ambush -- Fire-Breath Lizalfos
+Enemy_Lizalfos_Guard_Junior -- Lizalfos
+Enemy_Lizalfos_Guard_Junior:ZoraSpecial -- Lizalfos:ZoraSpecial
+Enemy_Lizalfos_Guard_Junior_LongVisibility -- Lizalfos
+Enemy_Lizalfos_Guard_Junior_LongVisibility:ZoraSpecial -- Lizalfos:ZoraSpecial
+Enemy_Lizalfos_Guard_Middle_LongVisibility -- Blue Lizalfos
+Enemy_Lizalfos_Ice -- Ice-Breath Lizalfos
+Enemy_Lizalfos_Junior -- Lizalfos
+Enemy_Lizalfos_Junior:ZoraSpecial -- Lizalfos:ZoraSpecial
+Enemy_Lizalfos_Junior_Guard_Ambush -- Lizalfos
+Enemy_Lizalfos_Middle -- Blue Lizalfos
+Enemy_Lizalfos_Middle:ZoraSpecial -- Blue Lizalfos:ZoraSpecial
+Enemy_Lizalfos_Senior -- Black Lizalfos
+Enemy_Lynel_Dark -- Silver Lynel
+Enemy_Lynel_Junior -- Lynel
+Enemy_Lynel_Junior_Mountain -- Lynel
+Enemy_Lynel_Middle -- Blue-Maned Lynel
+Enemy_Lynel_Senior -- White-Maned Lynel
+Enemy_Moriblin_Bone_Junior -- Stalmoblin
+Enemy_Moriblin_Junior -- Moblin
+Enemy_Moriblin_Middle -- Blue Moblin
+Enemy_Moriblin_Senior -- Black Moblin
+Enemy_Moriblin_Senior_Volcano -- Black Moblin
+Enemy_Octarock -- Water Octorok
+Enemy_Octarock_Desert -- Treasure Octorok
+Enemy_Octarock_Forest -- Forest Octorok
+Enemy_Octarock_Snow -- Snow Octorok
+Enemy_Octarock_Stone -- Rock Octorok
+Enemy_Sandworm -- Molduga
+Enemy_SiteBoss_Bow_Castle -- Windblight Ganon
+Enemy_SiteBoss_Lsword_Castle -- Fireblight Ganon
+Enemy_SiteBoss_Spear_Castle -- Waterblight Ganon
+Enemy_SiteBoss_Sword_Castle -- Thunderblight Ganon
+Enemy_Wizzrobe_Electric -- Electric Wizzrobe
+Enemy_Wizzrobe_Electric_Senior -- Thunder Wizzrobe
+Enemy_Wizzrobe_Fire -- Fire Wizzrobe
+Enemy_Wizzrobe_Fire_Senior -- Meteo Wizzrobe
+Enemy_Wizzrobe_Ice -- Ice Wizzrobe
+Enemy_Wizzrobe_Ice_Senior -- Blizzrobe
