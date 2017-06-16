@@ -1,0 +1,35 @@
+Object Name Format: Weapon_Shield_XXX
+
+001 = Wooden Shield
+002 = Soldier's Shield
+003 = Knight's Shield
+004 = Boko Shield
+005 = Spiked Boko Shield
+006 = Dragonbone Boko Shield
+007 = Lizal Shield
+008 = Reinforced Lizal Shield
+009 = Steel Lizal Shield
+013 = Guardian Shield
+014 = Guardian Shield+
+015 = Guardian Shield++
+016 = Lynel Shield
+017 = Mighty Lynel Shield
+018 = Savage Lynel Shield
+021 = Rusty Shield
+022 = Royal Shield
+023 = Forest Dweller's Shield
+025 = Silver Shield
+026 = Gerudo Shield
+030 = Hylian Shield
+031 = Hunter's Shield
+032 = Fisherman's Shield
+033 = Royal Guard's Shield
+034 = Emblazoned Shield
+035 = Traveler's Shield
+036 = Radiant Shield
+037 = Daybreaker
+038 = Ancient Shield
+040 = Pot Lid
+041 = Shield of the Mind's Eye
+042 = Kite Shield
+057 = Hero Shield (Wind Waker)
