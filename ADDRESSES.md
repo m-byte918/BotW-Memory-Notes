@@ -5,7 +5,7 @@
 |Address |  What the value is  |   Notes
 |--------|---------------------|----------
 |43856C88|Crosshair Target's ID|00000000 = No object within crosshairs
-|43856B50|Crosshair Coordinates|0, Z, X, Y. Applies to Stasis, Magnesis, and Camera
+|43856B50|Crosshair Coordinates|0, Y, Z, X. Applies to Stasis, Magnesis, and Camera
 |43856CC8|Stasis State         |01000000 = On, 00000100 = Frozen, 01000100 = On+Frozen
 |43856CD0|Stasis Cooldown Timer|None
 |43856B3C|Magnesis State       |00000000 = Not Scanning, 01000000 = Scanning
