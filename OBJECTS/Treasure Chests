@@ -1,0 +1,256 @@
+TBox_Field_Enemy:Item_Ore_A -- Treasure Chest:Diamond
+TBox_Field_Enemy:Item_Ore_B -- Treasure Chest:Ruby
+TBox_Field_Enemy:Item_Ore_C -- Treasure Chest:Sapphire
+TBox_Field_Enemy:Item_Ore_D -- Treasure Chest:Topaz
+TBox_Field_Enemy:Item_Ore_E -- Treasure Chest:Opal
+TBox_Field_Enemy:Item_Ore_F -- Treasure Chest:Amber
+TBox_Field_Enemy:Item_Ore_G -- Treasure Chest:Luminous Stone
+TBox_Field_Enemy:Obj_BombArrow_A_02 -- Treasure Chest:Bomb Arrow x5
+TBox_Field_Enemy:Obj_ElectricArrow_A_03 -- Treasure Chest:Shock Arrow x5
+TBox_Field_Enemy:Obj_FireArrow_A_02 -- Treasure Chest:Fire Arrow x10
+TBox_Field_Enemy:Obj_FireArrow_A_03 -- Treasure Chest:Fire Arrow x5
+TBox_Field_Enemy:Obj_IceArrow_A_02 -- Treasure Chest:Ice Arrow x10
+TBox_Field_Enemy:Obj_IceArrow_A_03 -- Treasure Chest:Ice Arrow x5
+TBox_Field_Enemy:Obj_Maracas -- Treasure Chest:Hestu's Maracas
+TBox_Field_Enemy:PutRupee_Gold -- Treasure Chest:Gold Rupee
+TBox_Field_Enemy:PutRupee_Silver -- Treasure Chest:Silver Rupee
+TBox_Field_Enemy:Weapon_Bow_002 -- Treasure Chest:Soldier's Bow
+TBox_Field_Enemy:Weapon_Bow_015 -- Treasure Chest:Golden Bow
+TBox_Field_Enemy:Weapon_Bow_017 -- Treasure Chest:Falcon Bow
+TBox_Field_Enemy:Weapon_Bow_035 -- Treasure Chest:Knight's Bow
+TBox_Field_Enemy:Weapon_Lsword_002 -- Treasure Chest:Soldier's Claymore
+TBox_Field_Enemy:Weapon_Lsword_003 -- Treasure Chest:Knight's Claymore
+TBox_Field_Enemy:Weapon_Lsword_035 -- Treasure Chest:Great Thunderblade
+TBox_Field_Enemy:Weapon_Shield_002 -- Treasure Chest:Soldier's Shield
+TBox_Field_Enemy:Weapon_Shield_003 -- Treasure Chest:Knight's Shield
+TBox_Field_Enemy:Weapon_Spear_002 -- Treasure Chest:Soldier's Spear
+TBox_Field_Enemy:Weapon_Spear_003 -- Treasure Chest:Knight's Halberd
+TBox_Field_Enemy:Weapon_Spear_028 -- Treasure Chest:Silverscale Spear
+TBox_Field_Enemy:Weapon_Spear_029 -- Treasure Chest:Gerudo Spear
+TBox_Field_Enemy:Weapon_Spear_030 -- Treasure Chest:Throwing Spear
+TBox_Field_Enemy:Weapon_Spear_032 -- Treasure Chest:Feathered Spear
+TBox_Field_Enemy:Weapon_Spear_033 -- Treasure Chest:Flamespear
+TBox_Field_Enemy:Weapon_Sword_001 -- Treasure Chest:Traveler's Sword
+TBox_Field_Enemy:Weapon_Sword_003 -- Treasure Chest:Knight's Broadsword
+TBox_Field_Enemy:Weapon_Sword_051 -- Treasure Chest:Boomerang
+TBox_Field_Gamble -- Treasure Chest
+TBox_Field_Iron:Armor_006_Head -- Treasure Chest:Zora Helm
+TBox_Field_Iron:IceArrow -- Treasure Chest:Ice Arrow
+TBox_Field_Iron:Item_Enemy_29 -- Treasure Chest:Ancient Shaft
+TBox_Field_Iron:Item_Enemy_31 -- Treasure Chest:Giant Ancient Core
+TBox_Field_Iron:Item_Ore_A -- Treasure Chest:Diamond
+TBox_Field_Iron:Item_Ore_B -- Treasure Chest:Ruby
+TBox_Field_Iron:Item_Ore_C -- Treasure Chest:Sapphire
+TBox_Field_Iron:Item_Ore_D -- Treasure Chest:Topaz
+TBox_Field_Iron:Item_Ore_E -- Treasure Chest:Opal
+TBox_Field_Iron:Item_Ore_F -- Treasure Chest:Amber
+TBox_Field_Iron:Item_Ore_I -- Treasure Chest:Flint
+TBox_Field_Iron:Item_Ore_J -- Treasure Chest:Star Fragment
+TBox_Field_Iron:Obj_AncientArrow_A_01 -- Treasure Chest:Ancient Arrow
+TBox_Field_Iron:Obj_AncientArrow_C_01 -- Treasure Chest:Ancient Arrow x3
+TBox_Field_Iron:Obj_ArrowBundle_A_01 -- Treasure Chest:Arrow x5
+TBox_Field_Iron:Obj_ArrowBundle_A_02 -- Treasure Chest:Arrow x10
+TBox_Field_Iron:Obj_BombArrow_A_02 -- Treasure Chest:Bomb Arrow x5
+TBox_Field_Iron:Obj_BombArrow_A_03 -- Treasure Chest:Bomb Arrow x10
+TBox_Field_Iron:Obj_ElectricArrow_A_02 -- Treasure Chest:Shock Arrow x10
+TBox_Field_Iron:Obj_ElectricArrow_A_03 -- Treasure Chest:Shock Arrow x5
+TBox_Field_Iron:Obj_FireArrow_A_02 -- Treasure Chest:Fire Arrow x10
+TBox_Field_Iron:Obj_FireArrow_A_03 -- Treasure Chest:Fire Arrow x5
+TBox_Field_Iron:Obj_IceArrow_A_02 -- Treasure Chest:Ice Arrow x10
+TBox_Field_Iron:Obj_IceArrow_A_03 -- Treasure Chest:Ice Arrow x5
+TBox_Field_Iron:PutRupee_Gold -- Treasure Chest:Gold Rupee
+TBox_Field_Iron:PutRupee_Purple -- Treasure Chest:Purple Rupee
+TBox_Field_Iron:PutRupee_Red -- Treasure Chest:Red Rupee
+TBox_Field_Iron:PutRupee_Silver -- Treasure Chest:Silver Rupee
+TBox_Field_Iron:Weapon_Bow_001 -- Treasure Chest:Traveler's Bow
+TBox_Field_Iron:Weapon_Bow_002 -- Treasure Chest:Soldier's Bow
+TBox_Field_Iron:Weapon_Bow_003 -- Treasure Chest:Spiked Boko Bow
+TBox_Field_Iron:Weapon_Bow_013 -- Treasure Chest:Forest Dweller's Bow
+TBox_Field_Iron:Weapon_Bow_014 -- Treasure Chest:Silver Bow
+TBox_Field_Iron:Weapon_Bow_015 -- Treasure Chest:Golden Bow
+TBox_Field_Iron:Weapon_Bow_017 -- Treasure Chest:Falcon Bow
+TBox_Field_Iron:Weapon_Bow_029 -- Treasure Chest:Phrenic Bow
+TBox_Field_Iron:Weapon_Bow_035 -- Treasure Chest:Knight's Bow
+TBox_Field_Iron:Weapon_Lsword_002 -- Treasure Chest:Soldier's Claymore
+TBox_Field_Iron:Weapon_Lsword_003 -- Treasure Chest:Knight's Claymore
+TBox_Field_Iron:Weapon_Lsword_027 -- Treasure Chest:Silver Longsword
+TBox_Field_Iron:Weapon_Lsword_029 -- Treasure Chest:Golden Claymore
+TBox_Field_Iron:Weapon_Lsword_030 -- Treasure Chest:Double Axe
+TBox_Field_Iron:Weapon_Lsword_031 -- Treasure Chest:Iron Sledgehammer
+TBox_Field_Iron:Weapon_Lsword_041 -- Treasure Chest:Eightfold Longblade
+TBox_Field_Iron:Weapon_Lsword_051 -- Treasure Chest:Giant Boomerang
+TBox_Field_Iron:Weapon_Lsword_055 -- Treasure Chest:Edge of Duality
+TBox_Field_Iron:Weapon_Shield_002 -- Treasure Chest:Soldier's Shield
+TBox_Field_Iron:Weapon_Shield_003 -- Treasure Chest:Knight's Shield
+TBox_Field_Iron:Weapon_Shield_022 -- Treasure Chest:Royal Shield
+TBox_Field_Iron:Weapon_Shield_025 -- Treasure Chest:Silver Shield
+TBox_Field_Iron:Weapon_Shield_026 -- Treasure Chest:Gerudo Shield
+TBox_Field_Iron:Weapon_Shield_030 -- Treasure Chest:Hylian Shield
+TBox_Field_Iron:Weapon_Shield_031 -- Treasure Chest:Hunter's Shield
+TBox_Field_Iron:Weapon_Shield_032 -- Treasure Chest:Fisherman's Shield
+TBox_Field_Iron:Weapon_Shield_036 -- Treasure Chest:Radiant Shield
+TBox_Field_Iron:Weapon_Shield_042 -- Treasure Chest:Kite Shield
+TBox_Field_Iron:Weapon_Spear_002 -- Treasure Chest:Soldier's Spear
+TBox_Field_Iron:Weapon_Spear_003 -- Treasure Chest:Knight's Halberd
+TBox_Field_Iron:Weapon_Spear_024 -- Treasure Chest:Royal Halberd
+TBox_Field_Iron:Weapon_Spear_027 -- Treasure Chest:Zora Spear
+TBox_Field_Iron:Weapon_Spear_029 -- Treasure Chest:Gerudo Spear
+TBox_Field_Iron:Weapon_Spear_030 -- Treasure Chest:Throwing Spear
+TBox_Field_Iron:Weapon_Spear_031 -- Treasure Chest:Drillshaft
+TBox_Field_Iron:Weapon_Sword_001 -- Treasure Chest:Traveler's Sword
+TBox_Field_Iron:Weapon_Sword_002 -- Treasure Chest:Soldier's Broadsword
+TBox_Field_Iron:Weapon_Sword_003 -- Treasure Chest:Knight's Broadsword
+TBox_Field_Iron:Weapon_Sword_024 -- Treasure Chest:Royal Broadsword
+TBox_Field_Iron:Weapon_Sword_029 -- Treasure Chest:Gerudo Scimitar
+TBox_Field_Iron:Weapon_Sword_030 -- Treasure Chest:Moonlight Scimitar
+TBox_Field_Iron:Weapon_Sword_031 -- Treasure Chest:Feathered Edge
+TBox_Field_Iron:Weapon_Sword_034 -- Treasure Chest:Frostblade
+TBox_Field_Iron:Weapon_Sword_035 -- Treasure Chest:Thunderblade
+TBox_Field_Iron:Weapon_Sword_041 -- Treasure Chest:Eightfold Blade
+TBox_Field_Iron:Weapon_Sword_048 -- Treasure Chest:Meteor Rod
+TBox_Field_Iron:Weapon_Sword_049 -- Treasure Chest:Blizzard Rod
+TBox_Field_Iron:Weapon_Sword_050 -- Treasure Chest:Thunderstorm Rod
+TBox_Field_Iron:Weapon_Sword_051 -- Treasure Chest:Boomerang
+TBox_Field_Iron_GodTree:Item_Ore_F -- Treasure Chest:Amber
+TBox_Field_Iron_NoReaction:Item_Ore_E -- Treasure Chest:Opal
+TBox_Field_Iron_NoReaction:Item_Ore_J -- Treasure Chest:Star Fragment
+TBox_Field_Iron_NoReaction:Obj_BombArrow_A_02 -- Treasure Chest:Bomb Arrow x5
+TBox_Field_Iron_NoReaction:Obj_ElectricArrow_A_02 -- Treasure Chest:Shock Arrow x10
+TBox_Field_Iron_NoReaction:Obj_IceArrow_A_02 -- Treasure Chest:Ice Arrow x10
+TBox_Field_Iron_NoReaction:PutRupee_Gold -- Treasure Chest:Gold Rupee
+TBox_Field_Iron_NoReaction:PutRupee_Silver -- Treasure Chest:Silver Rupee
+TBox_Field_Iron_NoReaction:Weapon_Bow_035 -- Treasure Chest:Knight's Bow
+TBox_Field_Iron_NoReaction:Weapon_Lsword_003 -- Treasure Chest:Knight's Claymore
+TBox_Field_Iron_NoReaction:Weapon_Spear_025 -- Treasure Chest:Forest Dweller's Spear
+TBox_Field_Iron_NoReaction:Weapon_Spear_032 -- Treasure Chest:Feathered Spear
+TBox_Field_Stone:Armor_001_Lower -- Treasure Chest:Hylian Trousers
+TBox_Field_Stone:Armor_024_Head -- Treasure Chest:Diamond Circlet
+TBox_Field_Stone:Armor_043_Lower -- Treasure Chest:Well-Worn Trousers
+TBox_Field_Stone:Armor_043_Upper -- Treasure Chest:Old Shirt
+TBox_Field_Stone:Armor_044_Upper -- Treasure Chest:Warm Doublet
+TBox_Field_Stone:Item_Enemy_30 -- Treasure Chest:Ancient Core
+TBox_Field_Stone:Item_Enemy_31 -- Treasure Chest:Giant Ancient Core
+TBox_Field_Stone:Item_Enemy_38 -- Treasure Chest:Dinraal's Scale
+TBox_Field_Stone:Item_Enemy_47 -- Treasure Chest:Shard of Dinraal's Fang
+TBox_Field_Stone:Item_Enemy_49 -- Treasure Chest:Naydra's Scale
+TBox_Field_Stone:Item_Enemy_51 -- Treasure Chest:Shard of Naydra's Fang
+TBox_Field_Stone:Item_Enemy_55 -- Treasure Chest:Shard of Farosh's Fang
+TBox_Field_Stone:Item_Fruit_H -- Treasure Chest:Mighty Bananas
+TBox_Field_Stone:Item_Ore_A -- Treasure Chest:Diamond
+TBox_Field_Stone:Item_Ore_B -- Treasure Chest:Ruby
+TBox_Field_Stone:Item_Ore_C -- Treasure Chest:Sapphire
+TBox_Field_Stone:Item_Ore_D -- Treasure Chest:Topaz
+TBox_Field_Stone:Item_Ore_E -- Treasure Chest:Opal
+TBox_Field_Stone:Item_Ore_F -- Treasure Chest:Amber
+TBox_Field_Stone:Item_Ore_G -- Treasure Chest:Luminous Stone
+TBox_Field_Stone:Item_Ore_I -- Treasure Chest:Flint
+TBox_Field_Stone:Item_Ore_J -- Treasure Chest:Star Fragment
+TBox_Field_Stone:Obj_AncientArrow_A_01 -- Treasure Chest:Ancient Arrow
+TBox_Field_Stone:Obj_AncientArrow_B_01 -- Treasure Chest:Ancient Arrow x5
+TBox_Field_Stone:Obj_AncientArrow_C_01 -- Treasure Chest:Ancient Arrow x3
+TBox_Field_Stone:Obj_ArrowBundle_A_01 -- Treasure Chest:Arrow x5
+TBox_Field_Stone:Obj_ArrowBundle_A_02 -- Treasure Chest:Arrow x10
+TBox_Field_Stone:Obj_BombArrow_A_02 -- Treasure Chest:Bomb Arrow x5
+TBox_Field_Stone:Obj_BombArrow_A_03 -- Treasure Chest:Bomb Arrow x10
+TBox_Field_Stone:Obj_ElectricArrow_A_03 -- Treasure Chest:Shock Arrow x5
+TBox_Field_Stone:Obj_FireArrow_A_03 -- Treasure Chest:Fire Arrow x5
+TBox_Field_Stone:Obj_IceArrow_A_02 -- Treasure Chest:Ice Arrow x10
+TBox_Field_Stone:Obj_IceArrow_A_03 -- Treasure Chest:Ice Arrow x5
+TBox_Field_Stone:PutRupee_Gold -- Treasure Chest:Gold Rupee
+TBox_Field_Stone:PutRupee_Purple -- Treasure Chest:Purple Rupee
+TBox_Field_Stone:PutRupee_Red -- Treasure Chest:Red Rupee
+TBox_Field_Stone:PutRupee_Silver -- Treasure Chest:Silver Rupee
+TBox_Field_Stone:Weapon_Bow_001 -- Treasure Chest:Traveler's Bow
+TBox_Field_Stone:Weapon_Bow_002 -- Treasure Chest:Soldier's Bow
+TBox_Field_Stone:Weapon_Bow_014 -- Treasure Chest:Silver Bow
+TBox_Field_Stone:Weapon_Bow_015 -- Treasure Chest:Golden Bow
+TBox_Field_Stone:Weapon_Bow_016 -- Treasure Chest:Swallow Bow
+TBox_Field_Stone:Weapon_Bow_017 -- Treasure Chest:Falcon Bow
+TBox_Field_Stone:Weapon_Bow_029 -- Treasure Chest:Phrenic Bow
+TBox_Field_Stone:Weapon_Bow_035 -- Treasure Chest:Knight's Bow
+TBox_Field_Stone:Weapon_Lsword_002 -- Treasure Chest:Soldier's Claymore
+TBox_Field_Stone:Weapon_Lsword_024 -- Treasure Chest:Royal Claymore
+TBox_Field_Stone:Weapon_Lsword_030 -- Treasure Chest:Double Axe
+TBox_Field_Stone:Weapon_Lsword_031 -- Treasure Chest:Iron Sledgehammer
+TBox_Field_Stone:Weapon_Lsword_036 -- Treasure Chest:Cobble Crusher
+TBox_Field_Stone:Weapon_Lsword_037 -- Treasure Chest:Stone Smasher
+TBox_Field_Stone:Weapon_Lsword_051 -- Treasure Chest:Giant Boomerang
+TBox_Field_Stone:Weapon_Lsword_056 -- Treasure Chest:Korok Leaf
+TBox_Field_Stone:Weapon_Shield_002 -- Treasure Chest:Soldier's Shield
+TBox_Field_Stone:Weapon_Shield_003 -- Treasure Chest:Knight's Shield
+TBox_Field_Stone:Weapon_Shield_018 -- Treasure Chest:Savage Lynel Shield
+TBox_Field_Stone:Weapon_Shield_025 -- Treasure Chest:Silver Shield
+TBox_Field_Stone:Weapon_Shield_026 -- Treasure Chest:Gerudo Shield
+TBox_Field_Stone:Weapon_Shield_034 -- Treasure Chest:Emblazoned Shield
+TBox_Field_Stone:Weapon_Spear_002 -- Treasure Chest:Soldier's Spear
+TBox_Field_Stone:Weapon_Spear_003 -- Treasure Chest:Knight's Halberd
+TBox_Field_Stone:Weapon_Spear_025 -- Treasure Chest:Forest Dweller's Spear
+TBox_Field_Stone:Weapon_Spear_027 -- Treasure Chest:Zora Spear
+TBox_Field_Stone:Weapon_Spear_028 -- Treasure Chest:Silverscale Spear
+TBox_Field_Stone:Weapon_Spear_029 -- Treasure Chest:Gerudo Spear
+TBox_Field_Stone:Weapon_Spear_030 -- Treasure Chest:Throwing Spear
+TBox_Field_Stone:Weapon_Spear_031 -- Treasure Chest:Drillshaft
+TBox_Field_Stone:Weapon_Spear_032 -- Treasure Chest:Feathered Spear
+TBox_Field_Stone:Weapon_Spear_037 -- Treasure Chest:Serpentine Spear
+TBox_Field_Stone:Weapon_Spear_047 -- Treasure Chest:Royal Guard's Spear
+TBox_Field_Stone:Weapon_Sword_002 -- Treasure Chest:Soldier's Broadsword
+TBox_Field_Stone:Weapon_Sword_003 -- Treasure Chest:Knight's Broadsword
+TBox_Field_Stone:Weapon_Sword_024 -- Treasure Chest:Royal Broadsword
+TBox_Field_Stone:Weapon_Sword_025 -- Treasure Chest:Forest Dweller's Sword
+TBox_Field_Stone:Weapon_Sword_029 -- Treasure Chest:Gerudo Scimitar
+TBox_Field_Stone:Weapon_Sword_033 -- Treasure Chest:Flameblade
+TBox_Field_Stone:Weapon_Sword_034 -- Treasure Chest:Frostblade
+TBox_Field_Stone:Weapon_Sword_048 -- Treasure Chest:Meteor Rod
+TBox_Field_Stone:Weapon_Sword_050 -- Treasure Chest:Thunderstorm Rod
+TBox_Field_Stone:Weapon_Sword_051 -- Treasure Chest:Boomerang
+TBox_Field_Stone:Weapon_Sword_061 -- Treasure Chest:Ice Rod
+TBox_Field_Stone_NoReaction:Armor_005_Head -- Treasure Chest:Cap of the Wild
+TBox_Field_Stone_NoReaction:Armor_005_Lower -- Treasure Chest:Trousers of the Wild
+TBox_Field_Stone_NoReaction:Armor_005_Upper -- Treasure Chest:Tunic of the Wild
+TBox_Field_Stone_NoReaction:Item_Ore_A -- Treasure Chest:Diamond
+TBox_Field_Stone_NoReaction:Obj_Armor_115_Head -- Treasure Chest:Thunder Helm
+TBox_Field_Stone_NoReaction:Weapon_Bow_028 -- Treasure Chest:Great Eagle Bow
+TBox_Field_Stone_NoReaction:Weapon_Lsword_054 -- Treasure Chest:Boulder Breaker
+TBox_Field_Stone_NoReaction:Weapon_Shield_037 -- Treasure Chest:Daybreaker
+TBox_Field_Stone_NoReaction:Weapon_Spear_050 -- Treasure Chest:Lightscale Trident
+TBox_Field_Stone_NoReaction:Weapon_Sword_052 -- Treasure Chest:Scimitar of the Seven
+TBox_Field_Wood:Item_Ore_B -- Treasure Chest:Ruby
+TBox_Field_Wood:Item_Ore_C -- Treasure Chest:Sapphire
+TBox_Field_Wood:Item_Ore_D -- Treasure Chest:Topaz
+TBox_Field_Wood:Item_Ore_E -- Treasure Chest:Opal
+TBox_Field_Wood:Item_Ore_F -- Treasure Chest:Amber
+TBox_Field_Wood:Item_Ore_I -- Treasure Chest:Flint
+TBox_Field_Wood:Obj_AncientArrow_A_01 -- Treasure Chest:Ancient Arrow
+TBox_Field_Wood:Obj_ArrowBundle_A_01 -- Treasure Chest:Arrow x5
+TBox_Field_Wood:Obj_ArrowBundle_A_02 -- Treasure Chest:Arrow x10
+TBox_Field_Wood:Obj_BombArrow_A_01 -- Treasure Chest:Bomb Arrow
+TBox_Field_Wood:Obj_BombArrow_A_02 -- Treasure Chest:Bomb Arrow x5
+TBox_Field_Wood:Obj_ElectricArrow_A_03 -- Treasure Chest:Shock Arrow x5
+TBox_Field_Wood:Obj_FireArrow_A_02 -- Treasure Chest:Fire Arrow x10
+TBox_Field_Wood:Obj_FireArrow_A_03 -- Treasure Chest:Fire Arrow x5
+TBox_Field_Wood:Obj_IceArrow_A_03 -- Treasure Chest:Ice Arrow x5
+TBox_Field_Wood:PutRupee_Gold -- Treasure Chest:Gold Rupee
+TBox_Field_Wood:PutRupee_Purple -- Treasure Chest:Purple Rupee
+TBox_Field_Wood:PutRupee_Red -- Treasure Chest:Red Rupee
+TBox_Field_Wood:PutRupee_Silver -- Treasure Chest:Silver Rupee
+TBox_Field_Wood:Weapon_Bow_001 -- Treasure Chest:Traveler's Bow
+TBox_Field_Wood:Weapon_Bow_002 -- Treasure Chest:Soldier's Bow
+TBox_Field_Wood:Weapon_Bow_013 -- Treasure Chest:Forest Dweller's Bow
+TBox_Field_Wood:Weapon_Bow_014 -- Treasure Chest:Silver Bow
+TBox_Field_Wood:Weapon_Bow_016 -- Treasure Chest:Swallow Bow
+TBox_Field_Wood:Weapon_Bow_035 -- Treasure Chest:Knight's Bow
+TBox_Field_Wood:Weapon_Lsword_002 -- Treasure Chest:Soldier's Claymore
+TBox_Field_Wood:Weapon_Lsword_003 -- Treasure Chest:Knight's Claymore
+TBox_Field_Wood:Weapon_Lsword_051 -- Treasure Chest:Giant Boomerang
+TBox_Field_Wood:Weapon_Shield_023 -- Treasure Chest:Forest Dweller's Shield
+TBox_Field_Wood:Weapon_Shield_025 -- Treasure Chest:Silver Shield
+TBox_Field_Wood:Weapon_Shield_026 -- Treasure Chest:Gerudo Shield
+TBox_Field_Wood:Weapon_Shield_032 -- Treasure Chest:Fisherman's Shield
+TBox_Field_Wood:Weapon_Spear_002 -- Treasure Chest:Soldier's Spear
+TBox_Field_Wood:Weapon_Spear_025 -- Treasure Chest:Forest Dweller's Spear
+TBox_Field_Wood:Weapon_Spear_031 -- Treasure Chest:Drillshaft
+TBox_Field_Wood:Weapon_Spear_038 -- Treasure Chest:Fishing Harpoon
+TBox_Field_Wood:Weapon_Sword_001 -- Treasure Chest:Traveler's Sword
+TBox_Field_Wood:Weapon_Sword_003 -- Treasure Chest:Knight's Broadsword
+TBox_Field_Wood:Weapon_Sword_025 -- Treasure Chest:Forest Dweller's Sword
+TBox_Field_Wood:Weapon_Sword_029 -- Treasure Chest:Gerudo Scimitar
