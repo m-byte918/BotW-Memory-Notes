@@ -1,0 +1,489 @@
+ActorObserverByActorTagTag
+ActorObserverByGroupTag
+ActorObserverTag
+AddAutoPlacementCreator
+AirWall
+AirWallCreature
+AirWallCurseGanon
+AirWallForE3
+AirWallHorse
+AirWallHorse_HiddnKorok
+AlarmLynelTag
+AnchorAction1
+AnchorAction10
+AnchorAction1_Rain
+AnchorAction2
+AnchorAction2_Rain
+AnchorAction3
+AnchorAction3_Rain
+AnchorAction4
+AnchorAction4_Rain
+AnchorAction5
+AnchorAction5_Rain
+AnchorAction6
+AnchorAction6_Rain
+AnchorAction7
+AnchorAction8
+AnchorAction9
+AnchorSleep
+AnchorWander2_Rain
+AnchorWander_Rain
+AncientBall_Kakariko
+Area
+AreaCulling_InnerHide
+AreaCulling_InnerOn
+AreaCulling_OuterNPCMementary
+ArmorProcessingEventTag
+AscendingCurrent
+AscendingCurrent_FireRelic_Battle
+AscendingCurrent_FireRelic_Storage
+AscendingCurrent_FlightTraining
+AscendingCurrent_Lanayru_DragonBattle
+AscendingCurrent_Side
+AscendingCurrent_Slant
+AscendingCurrent_WindRelic_Main
+AscendingCurrent_WindRelic_Top
+Aurora
+AwakeStalGiantTag
+BM_Relief
+BackseatKorok_0
+BackseatKorok_1
+BackseatKorok_2
+BackseatKorok_3
+BackseatKorok_4
+BackseatKorok_5
+BackseatKorok_6
+BackseatKorok_7
+BackseatKorok_8
+Barrel
+Barrel:ChuChu_Electric
+Barrel:ChuChu_Low
+Barrel:Chuchu_1
+Barrel:HotMaterial
+Barrel:HotMaterial_All
+Barrel:IceMeat
+Barrel:Meat
+Barrel:None
+Barrel:RareMaterial_1
+BarrelBomb -- Bomb Barrel
+BarrelBomb2
+BarrelBomb3
+BasicSignalTag
+BasinTag
+BattleBgmRequestFinishTag
+BeeHome -- Courser Bee Honey
+BlackSmoke
+BoarMeat -- Seared Steak
+BoarMeat_Frame
+BombEffectControlTag
+BossCreateAreaTag
+BottleLetter_Levee_A_01
+BottomTag
+BowlPin
+BowlPin_2
+BowlPin_2_Far
+BoxWater
+BoxWaterCancelIceMaker
+BreakableRock
+BrokenSnowBall
+Bros_Rock_01
+Bros_Rock_01_Far
+Bros_Rock_02
+Bros_Rock_02_Far
+Bros_Rock_03
+Bros_Rock_03_Far
+Bros_Rock_04
+Bros_Rock_04_Far
+Bros_Rock_05
+Bros_Rock_05_Far
+Butterfly
+CallObserveActorTag
+CastleBarrier
+ChangeWeatherTag
+ChangeWindTag
+CherryParticle
+CherryParticle_02
+ClusterRenderCheckTag
+Connectable
+ConstraintDummy
+DarknessAreaTag
+Darkness_Distance
+DebugGuide
+DemoAssassinIronBall
+DenseFogEftLocater
+DestinationAnchor
+DgnObj_Battery_A_02
+DgnObj_BoardWood
+DgnObj_DungeonEntranceSP
+DgnObj_DungeonEntranceSP_Far
+DgnObj_DungeonEntrance_A_01
+DgnObj_DungeonEntrance_A_01_Far
+DgnObj_DungeonEntrance_DecalSand
+DgnObj_DungeonEntrance_DecalSnow
+DgnObj_DungeonEntrance_Moss
+DgnObj_EntranceElevatorSP
+DgnObj_EntranceElevator_A_01
+DgnObj_EntranceShutterSP
+DgnObj_EntranceShutter_A_01
+DgnObj_EntranceTerminalSP
+DgnObj_EntranceTerminal_A_01
+DgnObj_GoronCannonBase_A_01
+DgnObj_IbutsuWaterFall_A_01
+DgnObj_IvyBurn_Floor
+DgnObj_RemainsLithograghBall
+DgnObj_RemainsLithogragh_A_02
+DgnObj_RemainsLithograph_A_01
+DgnObj_WarpPointSP
+DgnObj_WarpPoint_A_01
+Dm_FldObj_EnemyTrace_BoneBig_A_01
+Dm_FldObj_EnemyTrace_Bonesmall_A_01
+Dm_Locator
+DragonDropItemTarget
+Dragonfly
+DungeonBird_test
+DungeonPit
+DynamicCuttingForKokko
+EfLocater_GrudgeRib_L
+EfLocater_GrudgeRib_LL
+EfLocater_GrudgeRib_M
+EfLocater_GrudgeSolid_L
+EfLocater_GrudgeSolid_LL
+EfLocater_GrudgeSolid_LLL
+EfLocater_GrudgeSolid_LL_02
+EfLocater_GrudgeSolid_L_02
+EfLocater_GrudgeSolid_M
+EfLocater_GrudgeSolid_M_02
+EnemyChatFortMgrTag
+EnemyDanceFortMgrTag
+EnemyFortressMgrTag
+EnemyLookTag
+EnemyLookTag_Happy
+EnemyLookTag_Noise
+EnemyNoticeTag
+EnvSeEmitPointBirdSubTropic
+EnvSeEmitPointBirdSubarctic
+EnvSeEmitPointBirdTemperate
+EnvSeEmitPointBirdTropical
+EnvSeEmitPointBirdWet
+EnvSeEmitPointBirdWetSubtropic
+EnvSeEmitPointInsectSubarctic
+EnvSeEmitPointInsectSubtoropical
+EnvSeEmitPointInsectTemperate
+EnvSeEmitPointInsectTropical
+EventTag
+FX_CliffWhiteWaterFall_01
+FarModelCullingArea
+FidObj_SecretBase_TorchStand_A_01
+FidObj_TorchStandOff_A_01
+FidObj_TorchStandOn_A_01
+FidObj_TorchStand_A-2
+FidObj_TorchStand_A_01
+FireObserverTag
+FireWood
+FireWoodDie
+Fire_For_MapObj_L
+Fire_For_MapObj_S
+FirstHighlandFog
+FlyLocater
+FlyingBalloonObserverTag
+ForbidWolfLinkAreaTag
+ForceSetPosDirAutoSaveAnchor
+FrontierVillageSpotBgmTag
+GamanFire
+GamanStand01
+GamanStand02
+GameRomHorse00L -- Giant Horse
+GameRomHorseBone -- Stalhorse
+GameRomHorseNushi -- Lord of the Mountain
+GameRomHorseZelda -- White Horse
+Gerud_SecretClubDoor_A
+GrassCutTag
+GreatFairyBeforeRevival -- ???
+Grudge_HyruleCastle
+Guardian_A_BrokenLeg_L_Snow -- Decayed Guardian/Guardian Stalker
+Guide
+HazeEffectLocater_r50
+HorseAssociationCustum001 -- Tenne
+HorseAssociationCustum002 -- Phanna
+HorseAssociationCustum003 -- Canni
+HorseAssociationCustum004 -- Breen
+HorseGod001 -- Malanya
+HorsePlacmentAnchor
+HorseSpeedLimitTag
+IceWall
+IceWallRuins
+IceWallRuins_Challenge
+IceWall_Tower
+InStoreTag
+KibakoDesert_Contain_01:Gerudo
+KibakoJungle_Contain_01:Fruit1
+KibakoSeaside_Contain_01
+KibakoSeaside_Contain_01:Fruit1
+KibakoSnowMountain_Contain_01
+KibakoSnowMountain_Contain_01:Item_Roast_01 -- KibakoSnowMountain_Contain_01:Seared Steak
+KibakoSnowMountain_Contain_01:NormalHigh
+KibakoSnowMountain_Contain_01:Tabanta
+KibakoVolcano_Contain_01
+KibakoZora_Contain_01
+Kibako_Contain_01 -- Wooden Box
+Kibako_Contain_01:Arrow1 -- Wooden Box:Arrow1
+Kibako_Contain_01:Castle_Arrow -- Wooden Box:Castle_Arrow
+Kibako_Contain_01:Castle_Fruits -- Wooden Box:Castle_Fruits
+Kibako_Contain_01:Castle_Mushroom -- Wooden Box:Castle_Mushroom
+Kibako_Contain_01:Castle_Plants -- Wooden Box:Castle_Plants
+Kibako_Contain_01:Castle_Plants -- Wooden Box:Castle_Plants
+Kibako_Contain_01:Fruit1 -- Wooden Box:Fruit1
+Kibako_Contain_01:Gerudo -- Wooden Box:Gerudo
+Kibako_Contain_01:Item_Mushroom_F -- Wooden Box:Hearty Truffle
+Kibako_Contain_01:Item_Mushroom_J -- Wooden Box:Silent Shroom
+Kibako_Contain_01:Item_Mushroom_L -- Wooden Box:Razorshroom
+Kibako_Contain_01:Item_Mushroom_M -- Wooden Box:Ironshroom
+Kibako_Contain_01:NoDrop -- Wooden Box:NoDrop
+Kibako_Contain_01:NormalHigh -- Wooden Box:NormalHigh
+Kibako_Contain_01:Normal_High -- Wooden Box:Normal_High
+Kibako_Contain_01:Obj_ArrowBundle_A_01 -- Wooden Box:Arrow x5
+Kibako_Contain_01:PutRupee_Purple -- Wooden Box:Purple Rupee
+KorokAnswerResponce
+KorokRayShaft
+KorokRayShaftNarrow
+LavaHaze_01
+LineCheckTag
+LinkTagAnd
+LinkTagCount
+LinkTagNAnd
+LinkTagNOr
+LinkTagNone
+LinkTagOr
+LinkTagPulse
+LinkTagXOr
+LocationTag
+LookTag
+Mannequin_001_Head -- Hylian Hood
+Mannequin_001_Lower -- Hylian Trousers
+Mannequin_001_Upper -- Hylian Tunic
+Mannequin_002_Head -- Soldier's Helm
+Mannequin_002_Lower -- Soldier's Greaves
+Mannequin_002_Upper -- Soldier's Armor
+Mannequin_003_Head -- Stealth Mask
+Mannequin_003_Lower -- Stealth Tights
+Mannequin_003_Upper -- Stealth Chest Guard
+Mannequin_004_Head -- Snowquill Headdress
+Mannequin_004_Lower -- Snowquill Trousers
+Mannequin_004_Upper -- Snowquill Tunic
+Mannequin_005_Head -- Flamebreaker Helm
+Mannequin_005_Lower -- Flamebreaker Boots
+Mannequin_005_Upper -- Flamebreaker Armor
+Mannequin_006_Head -- Desert Voe Headband
+Mannequin_006_Lower -- Desert Voe Trousers
+Mannequin_006_Upper -- Desert Voe Spaulder
+Mannequin_007_Head -- Gerudo Veil
+Mannequin_007_Lower -- Gerudo Sirwal
+Mannequin_007_Upper -- Gerudo Top
+Mannequin_008_Head -- Radiant Mask
+Mannequin_008_Lower -- Radiant Tights
+Mannequin_008_Upper -- Radiant Shirt
+Mannequin_009_Upper -- Warm Doublet
+MayoiFogEftLocater
+MergedGrudge_B-3_0
+MergedGrudge_B-3_1
+MergedGrudge_B-3_2
+MergedGrudge_B-4_0
+MergedGrudge_B-4_1
+MergedGrudge_B-4_2
+MergedGrudge_D-6_0
+MergedGrudge_D-8_0
+MergedGrudge_E-1_1
+MergedGrudge_E-4_0-BB
+MergedGrudge_E-4_0-BB_Far
+MergedGrudge_E-4_0-BC
+MergedGrudge_E-4_0-BC_Far
+MergedGrudge_E-4_0-CA
+MergedGrudge_E-4_0-CA_Far
+MergedGrudge_E-4_0-CB
+MergedGrudge_E-4_0-CB_Far
+MergedGrudge_E-4_0-CC
+MergedGrudge_E-4_0-CC_Far
+MergedGrudge_E-4_0-DA
+MergedGrudge_E-4_0-DA_Far
+MergedGrudge_E-4_0-DB
+MergedGrudge_E-4_0-DB_Far
+MergedGrudge_E-4_0-DC
+MergedGrudge_E-4_0-DC_Far
+MergedGrudge_E-4_1
+MergedGrudge_E-4_10
+MergedGrudge_E-4_11
+MergedGrudge_E-4_12
+MergedGrudge_E-4_13
+MergedGrudge_E-4_14
+MergedGrudge_E-4_15
+MergedGrudge_E-4_16
+MergedGrudge_E-4_17
+MergedGrudge_E-4_18
+MergedGrudge_E-4_19
+MergedGrudge_E-4_2
+MergedGrudge_E-4_20
+MergedGrudge_E-4_3
+MergedGrudge_E-4_4
+MergedGrudge_E-4_5
+MergedGrudge_E-4_6
+MergedGrudge_E-4_7
+MergedGrudge_E-4_8
+MergedGrudge_E-4_9
+MergedGrudge_F-4_0
+MergedGrudge_F-5_0
+MergedGrudge_I-3_0
+MergedGrudge_I-3_1
+MoonNameTag
+Mosquito
+MountainCloud
+MountainCloudSingle
+MoveTriggerTag
+MusicianSpotBgmTag
+ObservationPoint
+OwnedHorseObserverTag
+PlacementHaze
+PlantPalmMini_A_S
+Plant_Fern_A
+Plant_Fern_B
+Plant_Fern_C
+Plant_OriginalGrass_A
+PlayerDivingJumpAreaTag
+PlayerForbidComebackTag
+PlayerForbidHangTag
+PlayerInAreaAutoEnemyForbidTag
+PlayerOnScaffoldCheckTag
+PlayerSetComebackPositionTag
+PointWindSetTag
+PosAfterDemoSkip
+Pot
+Pot:ArrowBundle
+Pot:Arrow_Chemical
+Pot:Item_Fruit_I -- Pot:Spicy Pepper
+Pot:Obj_ArrowBundle_A_01 -- Pot:Arrow x5
+Pot:Rupee_All_A
+PutRupee -- Green Rupee
+PutRupee_Blue -- Blue Rupee
+PutRupee_Gold -- Gold Rupee
+PutRupee_Purple -- Purple Rupee
+PutRupee_Red -- Red Rupee
+PutRupee_Silver -- Silver Rupee
+Rain_Distance
+RegistedActorDeadCheck
+RegistedActorMessageBroadCastTag
+RemainGuide
+RemainsElectric
+RemainsElectric_Far
+RemainsFire
+RemainsFireChallengeYunBoFlagControlTag
+RemainsFire_Drone_A_01 -- Sentry
+RemainsFire_Far
+RemainsWater
+RemainsWater_Far
+RemainsWater_WeakPoint
+RemainsWind
+RemainsWind_Barrier_A_01
+RemainsWind_Battery_A_01
+RemainsWind_Far
+RememberTag
+Rito_BrosRock_Relief
+RockBall
+RockLayerMoss_A_L_01
+RockLayerMoss_A_L_02
+RockLayerMoss_A_L_02_TwoWheels
+RockLayerMoss_A_L_03
+RockLayerMoss_A_L_03_TwoWheels
+RockLayerMoss_A_L_04
+RockLayerMoss_A_L_04_TwoWheels
+RockLayerMoss_A_M_01
+RockLayerMoss_A_M_04
+RockLayerMoss_A_M_05
+RockLayerMoss_A_M_05_TwoWheels
+RockLayerMoss_A_S_01
+RockSetWhite_A_01
+RockSetWhite_A_02
+RockWhite_A_L_01
+RockWhite_A_M_01
+RockWhite_A_M_03
+RockWhite_A_M_04
+RockWhite_A_M_06
+RockWhite_A_S_01
+RockWhite_A_S_02
+Rope
+Route
+SandStorm_Distance_A8
+SandStorm_Distance_Battle
+SandStorm_Distance_Ibutsu
+SandStorm_Distance_daytime
+Sandfall_A_01
+SeekerSimbol2
+SeekerSimbol2_Far
+ShelterFromRainTag
+SignalFireWood
+SignalFlowchart
+SignaledSpotBgmTag
+SitRemainsElec
+SitRemainsElec_Far
+SitRemainsFire
+SitRemainsFire_Far
+SitRemainsWater
+SitRemainsWater_Far
+SitRemainsWind
+SitRemainsWind_Far
+SmallFishes1
+SnowBowl
+Snow_Distance_Gerudo
+Snow_Distance_Lanayru
+SoundOcclusionTagComplete
+SoundProxyClappers
+SoundProxyDeathMountain
+SoundProxyFirstShrine
+SoundProxyInDoorOnlyWater
+SoundProxyLavafallL
+SoundProxyLavafallS
+SoundProxySpringWater_BraveHorsePark
+SoundProxySpringWater_ZoraKingRoom
+SoundProxyWatefallIndoorAndOutdoorS
+SoundProxyWatefallIndoorS
+SoundProxyWatefallS
+SoundReverbAreaTag
+SpiritForest_Effect
+SpotBgmTag
+StaminaParashawlTag
+Steam_Hotspring_01
+StoneSet_Gray_01
+Strange_Beacon
+Strange_Beacon_CookSet
+SwitchCandlestick
+SwitchCandlestickOn
+SwitchTimeLag
+SwitchTimeLimited
+SwitchTimer
+TerrainHideCenterTag
+Thundercloud_Distance
+TimeControlTag
+TravelersGuardianDeity_A_01
+TreasureSpot_00
+TreasureSpot_00:Material_Purua
+TreasureSpot_00:RuinGuardian
+ValleyEffectLocater
+VolcanoEruption
+VolcanoEruptionField
+VolcanoPloom
+VolcanoPloom_Far
+WallCrack
+WarpSafeTag
+WarpTag
+WaterfallGerudoBottom
+WaterfallGerudoBottomCeiling
+WaterfallGerudoSquare
+WildHorseCreateTag -- Horse Generator (Slow/Slow/Slow/Normal/Normal)
+WildHorseCreateTag01 -- Horse Generator (Slow/Normal/Normal/Fast/Fast)
+WildHorseCreateTag02 -- Horse Generator (Slow/Normal/Normal/Normal/Fast/Fast)
+WildHorseCreateTag03 -- Horse Generator (Slow/Normal/Fast/Fastest/Fastest)
+WindboxPlace
+WoodBall_Golf
+YabusameBow
+YabusameMato
+YabusameTarget
+subchallnpc000 -- Domidak
+subchallnpc000_twin -- Prissen
