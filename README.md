@@ -11,6 +11,7 @@ Includes:
 * [Address Information, what they do, etc](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/ADDRESSES.md)
 * [Pointer Information, where they lead to, etc](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/POINTERS.md)
 * [Button Activators, for Gamepad and Pro Controller](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/ACTIVATORS.md)
+* [Lists of Objects and their names](https://github.com/Megabyte918/BotW-Memory-Notes/tree/master/OBJECTS)
 * [Memory dump of every address (for creating pointers)](#full-botw-memory-dump-v120-usa)
 
 ## Full BotW Memory Dump (v1.2.0, USA)
