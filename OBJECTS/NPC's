@@ -1,0 +1,511 @@
+Heroes
+
+Dm_Npc_Zelda_Sibyl Zelda
+Dm_Npc_Gerdo_Hero Urbosa
+Dm_Npc_Zora_Hero Mipha
+Dm_Npc_Goron_Hero Daruk
+Dm_Npc_Rito_Hero Revali
+Dm_Npc_Hyrule_KingSoul King Rhoam
+
+Kakariko Village
+
+Npc_Kakariko001 Impa
+Npc_Kakariko002 Paya
+Npc_Kakariko003 Koko
+Npc_Kakariko004 Cottla
+Npc_Kakariko005 Cado
+Npc_Kakariko006 Olkin
+Npc_Kakariko007 Dorian
+Npc_Kakariko008 Mellie
+Npc_Kakariko010 Rola
+Npc_Kakariko011 Ollie
+Npc_Kakariko012 Claree
+Npc_Kakariko013 Steen
+Npc_Kakariko014 Trissa
+Npc_Kakariko015 Nanna
+Npc_Kakariko016 Lasli
+
+Zora's Domain
+
+Npc_ZoraB001 Sidon
+Npc_Zora001 Tottika
+Npc_Zora002 Cleff
+Npc_Zora003 King Dorephan
+Npc_Zora004 Muzu
+Npc_Zora005 Kapson
+Npc_Zora006 Fronk
+Npc_Zora007 Laruta
+Npc_Zora009 Marot
+Npc_Zora010 Mei
+Npc_Zora011 Tumbo
+Npc_Zora012 Keye
+Npc_Zora013 Ledo
+Npc_Zora014 Seggin
+Npc_Zora015 Laflat
+Npc_Zora020 Kayden
+Npc_Zora025 Tona
+Npc_Zora026 Finley
+Npc_Zora027 Trello
+Npc_Zora028 Tula
+Npc_Zora029 Gruve
+Npc_Zora031 Rivan
+Npc_Zora032 Bazz
+Npc_Zora033 Dento
+Npc_Zora034 Gaddison
+Npc_Zora035 Jiahto
+Npc_Zora036 Torfeau
+Npc_Zora037 Dunma
+Npc_Zora126 Finley
+Npc_ZoraGoron_001 Reagah
+
+Goron City
+
+Npc_goron001 Tray
+Npc_goron002 Tanko
+Npc_goron003 Pyle
+Npc_goron004 Rogaro
+Npc_Goron005 Aji
+Npc_Goron006 Bludo
+Npc_Goron011 Slergo
+Npc_Goron012 Dorill
+Npc_Goron013 Jengo
+Npc_Goron014 Bohrin
+Npc_Goron015 Axyl
+Npc_Goron016 Rohan
+Npc_Goron017 Fugo
+Npc_Goron018 Ramella
+Npc_Goron020 Yunobo
+Npc_Goron021 Bargoh
+Npc_Goron022 Krane
+Npc_Goron023 Greyson
+Npc_Goron025 Pelison
+Npc_Goron026 Volcon
+Npc_Goron030 Drak
+Npc_Goron031 Dugby
+Npc_Goron032 Grapp
+Npc_Goron033 Offrak
+Npc_Goron109 Gonguron
+Npc_Goron110 Bladon
+
+Npc_Goron_Camp001 Bayge
+Npc_Goron_Camp002 Heehl
+Npc_Goron_Camp003 Kabetta
+
+Stable & Horses
+
+HorseAssociationCustum001 Tenne
+HorseAssociationCustum002 Phanna
+HorseAssociationCustum003 Canni
+HorseAssociationCustum004 Breen
+HorseGod001 Malanya
+
+Laboratory
+
+Npc_AncientDoctor Purah
+Npc_AncientAssistant001 Symin
+Npc_AncientAssistant003 Granté
+Npc_AncientAssistant004 Jerrin
+Npc_AncientDoctor_Hateno Robbie
+
+Travelers (Assassin-Attacked)
+
+Npc_Assassin_001 Traveler
+Npc_Assassin_002 Traveler
+Npc_Assassin_003 Traveler
+Npc_Assassin_004 Traveler
+Npc_Assassin_005 Traveler
+Npc_Assassin_006 Traveler
+Npc_Assassin_007 Traveler
+Npc_Assassin_008 Traveler
+Npc_Assassin_009 Traveler
+Npc_Assassin_010 Traveler
+Npc_Attacked_001 Leekah
+Npc_Attacked_002 Dillie
+Npc_Attacked_003 Regan
+Npc_Attacked_004 Tye
+Npc_Attacked_005 Chabi
+Npc_Attacked_006 Mils
+Npc_Attacked_007 Jora
+Npc_Attacked_008 Nat
+Npc_Attacked_009 Meghyn
+Npc_Attacked_010 Sorelia
+Npc_Attacked_011 Mina
+Npc_Attacked_012 Nell
+
+Npc_DressFairy_00 Cotera
+Npc_DressFairy_01 Mija
+Npc_DressFairy_02 Kaysa
+Npc_DressFairy_03 Tera
+
+Faron
+
+Npc_FaronHatago_001 Padok
+Npc_FaronWoods001 Perosa
+Npc_FaronWoods003 Shay
+Npc_FaronWoods006 Brigo
+Npc_FaronWoods007 Giro
+Npc_FaronWoods008 Straia
+Npc_FaronWoods009 Jini
+Npc_FaronWoods010 Blynne
+Npc_FarthestIsland002 Mimo
+Npc_FirstColony004 Dai
+
+Gerudo
+
+Npc_GerudoCanyonHatago001 Piaffe
+Npc_GerudoDesert001 Sudrey
+Npc_GerudoDesert002 Pokki
+Npc_GerudoDesert003 Anche
+Npc_GerudoDesert004 Barta
+Npc_gerudovalley001 Pirou
+
+Hateno Village
+
+Npc_HatenoGate001 Calip
+Npc_HatenoGate002 Mimos
+Npc_HatenoGate003 Garill
+Npc_HatenoVillage Reede
+Npc_HatenoVillage001 Sayge
+Npc_HatenoVillage002 Pruce
+Npc_HatenoVillage003 Ivee
+Npc_HatenoVillage004 Seldon
+Npc_HatenoVillage005 Nack
+Npc_HatenoVillage006 Nikki
+Npc_HatenoVillage007 Narah
+Npc_HatenoVillage008 Nebb
+Npc_HatenoVillage009 Senna
+Npc_HatenoVillage010 Leop
+Npc_HatenoVillage011 Worten
+Npc_HatenoVillage012 Medda
+Npc_HatenoVillage013 Tokk
+Npc_HatenoVillage014 Prima
+Npc_HatenoVillage015 Thadd
+Npc_HatenoVillage016 Dantz
+Npc_HatenoVillage017 Rhodes
+Npc_HatenoVillage018 Clavia
+Npc_HatenoVillage019 Sophie
+Npc_HatenoVillage020 Amira
+Npc_HatenoVillage021 Sefaro
+Npc_HatenoVillage022 Manny
+Npc_HatenoVillage023 Uma
+Npc_HatenoVillage024 Ralera
+Npc_HatenoVillage025 Koyin
+Npc_HatenoVillage026 Aster
+Npc_HatenoVillage027 Azu
+Npc_HatenoVillage028 Teebo
+Npc_HatenoVillage029 Karin
+Npc_HatenoVillage030 Karson
+Npc_HatenoVillage031 Hudson
+Npc_HatenoVillage032 Bolson
+Npc_HatenoVillage033 Tamana
+
+High Mountain
+
+Npc_HighMountain001_Name Tulin
+Npc_HighMountain003_Name Molli
+Npc_HighMountain004_Name Kaneli
+Npc_HighMountain005_Name Saki
+Npc_HighMountain008_Name Nekk
+Npc_HighMountain009_Name Harth
+Npc_HighMountain010_Name Fyson
+Npc_HighMountain011_Name Mazli
+Npc_HighMountain012_Name Bedoli
+Npc_HighMountain013_Name Huck
+Npc_HighMountain020_Name Cecili
+Npc_HighMountain021_Name Misa
+Npc_HighMountain025_Name Verla
+Npc_HighMountain030_Name Laissa
+Npc_HighMountain031_Name Notts
+Npc_HighMountain032_Name Kotts
+Npc_HighMountain033_Name Genli
+Npc_HighMountain034_Name Cree
+Npc_HighMountain035_Name Kheel
+Npc_HighMountain036_Name Amali
+Npc_HighMountain037_Name Gesane
+Npc_HighMountain040_Name Jogo
+Npc_HighMountain041_Name Juney
+
+Npc_HutagoHatago_001 Tasseren
+Npc_HutagoHatago_002 Darton
+Npc_HutagoHatago_Woman_01 Sagessa
+
+Hyrule
+
+Npc_HyruleDepthHatago001_Name Haite
+Npc_HyruleDepthHatago002_Name Myti
+Npc_HyruleDepthHatago003_Name Trott
+Npc_HyruleDepthHatago004_Name Geggle
+Npc_HyruleDepthHatago005_Name Embry
+Npc_HyruleDepthHatago006_Name Aliza
+Npc_HyruleDepthHatago007_Name Toffa
+Npc_HyrulePlain004_Name Shamae
+Npc_HyrulePlain005_Name Ashe
+Npc_HyrulePlain006_Name Molo
+Npc_HyruleWestHatago001_Name Zumi
+Npc_HyruleWestHatago002_Name Garshon
+Npc_HyruleWestHatago003_Name Onya
+Npc_HyruleWestHatago004_Name Akrah
+Npc_HyruleWestHatago005_Name Sprinn
+Npc_HyruleWestHatago006_Name Chork
+
+Npc_kokiri001 Tasho
+Npc_kokiri002 Walton
+Npc_kokiri003 Daz
+Npc_kokiri004 Natie
+Npc_kokiri005 Maca
+Npc_kokiri006 Pepp
+Npc_Kokiri007 Peeks
+Npc_Kokiri008 Chio
+Npc_kokiri009 Oaki
+Npc_Kokiri010 Zooki
+Npc_Kokiri011 Damia
+Npc_kokiri012 Kula
+Npc_OldKorok Hestu
+Npc_HiddenKorokFly Korok
+Npc_HiddenKorokGround Korok
+
+NPC_Lanayru001_Name Russ
+NPC_Lanayru002_Name Fin
+Npc_Lanayru003_Name Douma
+Npc_Lanayru004_Name Eryck
+
+Npc_Minigame_BirdMan001_Name Branli
+Npc_MiniGame_Crosscountry_Name Konba
+Npc_MiniGame_Golf_Name Modar
+
+Npc_NorthHatelHatago001 Izra
+Npc_NorthHatelHatago002 Ami
+Npc_NorthHatelHatago006 Lawdon
+Npc_NorthHateru_around001 Benny
+Npc_NorthHateru003 Yolero
+Npc_NorthHateru005 Quince
+
+Oasis
+
+Npc_oasis001 Isha
+Npc_oasis002 Danda
+Npc_oasis003 Riju
+NPC_oasis004_fr01 Canolo
+NPC_oasis004_fr02 Flaxel
+NPC_oasis004_fr03 Palme
+NPC_oasis004_fr04 Oliff
+NPC_oasis004 Sesami
+Npc_oasis005 Greta
+Npc_oasis006 Romah
+Npc_oasis007_Name Buliara
+Npc_oasis008_Name Pritana
+Npc_oasis009_Name Laine
+Npc_oasis010_Name Merina
+Npc_oasis011_Name Makure
+Npc_oasis012_Name Cara
+Npc_oasis013_Name Kalani
+Npc_oasis014_Name Rima
+Npc_oasis015_Name Saula
+Npc_oasis016_Name Dalia
+Npc_oasis017_Name Pearle
+Npc_oasis018_Name Nellie
+Npc_oasis019_Name Olu
+Npc_oasis020_Name Frelly
+Npc_oasis021_Name Nali
+Npc_oasis022_Name Fegran
+Npc_oasis023_Name Lashley
+Npc_oasis024_Name Dorrah
+Npc_oasis025_Name Teake
+Npc_oasis026_Name Ploka
+Npc_oasis027_Name Rotana
+Npc_oasis028_Name Malena
+Npc_oasis029_Name Kohm
+Npc_oasis032_Name Essa
+Npc_oasis036_Name Reeza
+Npc_oasis037_Name Traysi
+Npc_oasis038_Name Tali
+Npc_oasis039_Name Shabonne
+Npc_oasis040_Name Leena
+Npc_oasis041_Name Kotta
+Npc_oasis042_Name Liana
+Npc_oasis043_Name Ardin
+Npc_oasis044_Name Spera
+Npc_oasis045_Name Lorn
+Npc_oasis046_Name Estan
+Npc_oasis047_Name Padda
+Npc_oasis050_Name Rhondson
+Npc_OasisGoddess Muava
+Npc_OasisGoron_001_Name Lyndae
+Npc_OasisHighMountain_001_Name Frita
+Npc_OasisHylia_001_Name Jules
+Npc_OasisHylia_002_Name Bozai
+Npc_OasisHylia_003_Name Tauma
+Npc_OasisMilk_A_Name Yaido
+Npc_OasisMilk_B_Name Sumati
+Npc_OasisMilk_C_Name Pyra
+Npc_OasisMilk_D_Name Deltan
+Npc_OasisMilk_E_Name Furosa
+Npc_OasisSoldier_A_Name Marta
+Npc_OasisSoldier_B_Name Smaude
+Npc_OasisSoldier_C_Name Babi
+Npc_OasisStep_A_Name Katta
+Npc_OasisStep_B_Name Bertri
+Npc_OasisStudent_A_Name Pasha
+Npc_OasisStudent_B_Name Risa
+Npc_OasisStudent_C_Name Dina
+Npc_OasisTeacher_Name Ashai
+Npc_OasisWaterChannel_Name Calyban
+
+Rito
+
+Npc_Remains_Fancier001 Loone
+Npc_RitoHatago001 Lester
+Npc_RitoHatago002 Ariane
+Npc_RitoHatago003 Ponthos
+Npc_RitoHatago004 Galli
+Npc_RiverSideHatago001 Gotter
+Npc_RiverSideHatago002 Parcy
+Npc_RiverSideHatago003 Ember
+
+Road
+
+Npc_Road_001_Name Botrick
+Npc_Road_002_Name Mezer
+Npc_Road_003_Name Rik
+Npc_Road_004_Name Agus
+Npc_Road_005_Name Kanny
+Npc_Road_006_Name Zorona
+Npc_Road_007_Name Kairo
+Npc_Road_008_Name Toma
+Npc_Road_009_Name Letty
+Npc_Road_010_Name Yammo
+Npc_Road_011_Name Kyra
+Npc_Road_012_Name Calisa
+Npc_Road_013_Name Meeshy
+Npc_Road_014_Name Spinch
+Npc_Road_015_Name Chumin
+Npc_Road_016_Name Totsuna
+Npc_Road_017_Name Glendo
+Npc_Road_018_Name Brokka
+Npc_Road_019_Name Bugut
+Npc_Road_020_Name Teli
+Npc_Road_021_Name Joute
+Npc_Road_022_Name Celessa
+Npc_Road_023_Name Kazul
+Npc_Road_024_Name Cambo
+Npc_Road_025_Name Endai
+Npc_Road_026_Name Spoone
+Npc_Road_027_Name Dayto
+Npc_Road_028_Name Boldon
+Npc_Road_029_Name Karsh
+Npc_Road_030_Name Gartan
+Npc_Road_031_Name Maypin
+Npc_Road_032_Name Lukan
+Npc_Road_033_Name Nazbi
+Npc_Road_034_Name Ronn
+Npc_Road_035_Name Baddek
+Npc_Road_036_Name Savelle
+Npc_Road_037_Name Falmark
+Npc_Road_040_Name Baumar
+Npc_Road_041_Name Pitar
+Npc_Road_042_Name Naddon
+Npc_Road_043_Name Laroba
+Npc_Road_044_Name Stamm
+Npc_Road_045_Name Lonni
+Npc_Road_Firone002 Suzuna
+
+Small Oasis
+
+Npc_SmallOasis001 Strade
+Npc_SmallOasis002 Guy
+Npc_SmallOasis003 Shaillu
+Npc_SmallOasis004 Kachoo
+Npc_SmallOasis005 Robsten
+Npc_SmallOasis006 Benja
+Npc_SmallOasis007 Nobiro
+Npc_SmallOasis008 Vilia
+Npc_SmallOasis009 Maike
+Npc_SmallOasis010 Emri
+Npc_SmallOasis011 Ripp
+Npc_SmallOasis012 Konora
+
+Southern Village
+
+Npc_SouthernVillage001_Name Chessica
+Npc_SouthernVillage004_Name Armes
+Npc_SouthernVillage005_Name Mubs
+Npc_SouthernVillage006_Name Sebasto
+Npc_SouthernVillage007_Name Kiana
+Npc_SouthernVillage008_Name Kinov
+Npc_SouthernVillage009_Name Zuta
+Npc_SouthernVillage010_Name Numar
+Npc_SouthernVillage012_Name Flavi
+Npc_SouthernVillage013_Name Rozel
+Npc_SouthernVillage014_Name Garini
+Npc_SouthernVillage015_Name Perda
+Npc_SouthernVillage016_Name Wabbin
+Npc_SouthernVillageGambler Cloyne
+Npc_SouthHateru005_Name Shibo
+Npc_SouthHateru006_Name Rensa
+Npc_SouthHateru007_Name Hino
+
+Hatago
+
+Npc_TabantaBridgeHatago001_Name Banji
+Npc_TabantaBridgeHatago002_Name Kenyo
+Npc_TabantaBridgeHatago003_Name Ena
+Npc_TabantaBridgeHatago004_Name Sho
+Npc_TabantaBridgeHatago005_Name Toren
+Npc_TabantaBridgeHatago006_Name Dabi
+
+Npc_TabantaHatago001_Name Monkton
+Npc_TabantaHatago002_Name Harlow
+Npc_TabantaHatago003_Name Danton
+Npc_TabantaHatago004_Name Varke
+
+Npc_TamourHatago001_Name Aya
+Npc_TamourHatago002_Name Nobo
+Npc_TamourHatago003_Name Khini
+Npc_TamourHatago004_Name Hoz
+Npc_TamourHatago005_Name Rudi
+Npc_TamourHatago2_001_Name Rex
+
+Npc_TamourPlainHatago_001_Name Kaifa
+Npc_TamourPlainHatago_002_Name Jana
+Npc_TamourPlainHatago_003_Name Gleema
+Npc_TamourPlainHatago_004_Name Dmitri
+
+Npc_LakeSideHatago004_Name Anly
+Npc_LakeSideHatago005_Name Kampo
+Npc_LakeSideHatago006_Name Cima
+
+Npc_DeathEastHatago_001 Ozunda
+Npc_DeathEastHatago_002 Kima
+Npc_DeathEastHatago_003 Gaile
+Npc_DeathMt001 Mayro
+Npc_DeathWestHatago_002 Kish
+
+UMii Village
+
+Npc_UMiiVillage003 Hunnie
+Npc_UMiiVillage007 Monari
+Npc_UMiiVillage008 Moggs
+Npc_UMiiVillage009 Hagie
+Npc_UMiiVillage010 Ruli
+Npc_ValleyVillage010 Teba
+
+Others
+
+Npc_IceVillage011 Selmie
+NPC_artist_000_Name Pikango
+Npc_King_Vagrant001 Old Man
+Npc_MamonoShop Kilton
+Npc_TripMaster_00 Beedl
+Npc_Musician_001 Kass
+subchallnpc000 Domidak
+subchallnpc000_twin Prissen
+Npc_Bottle_Mes001 Sasan
+Npc_Bowling Pondo
+Npc_Challenge093Lady Magda
+Npc_HorseBuyer Zyle
+Npc_Hunters_Lost Juannelle
+
+Npc_Strange_Beacon_Name Moza
+NPC_SystemTextBoard_Name Stone Tablet
+NPC_SystemTextBook_Name Old Journal
+NPC_SystemTextDemonStatue_Name Horned Statue
