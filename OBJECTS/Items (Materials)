@@ -1,0 +1,221 @@
+Fruit:
+
+Item_Fruit_A = Apple (0,5)
+Item_Fruit_B = Wildberry (0,5)
+Item_Fruit_C = Voltfruit (0,5)
+Item_Fruit_D = Hearty Durian (3)
+Item_Fruit_E = Fleet-Lotus Seeds (0,5)
+Item_Fruit_F = Hydromelon (0,5)
+Item_Fruit_G = Palm Fruit (1)
+Item_Fruit_H = Mighty Bananas (0,5)
+Item_Fruit_I = Spicy Pepper (0,5)
+Item_Fruit_J = Fortified Pumpkin (0,5)
+Item_Fruit_K = Acorn (0,25)
+Item_Fruit_L = Chickaloo Tree Nut (0,25)
+_________________________________________________________________
+
+Mushrooms:
+
+Item_Mushroom_A = Stamella Mushroom (0,5)
+Item_Mushroom_B = Chillshroom (0,5)
+Item_Mushroom_C = Sunshroom (0,5)
+Item_Mushroom_D = Rushroom (0,5)
+Item_MushroomGet_D = Rushroom (0,5)
+Item_Mushroom_E = Hylian Mushroom (0,5)
+Item_Mushroom_F = Hearty Truffle (2)
+
+Item_Mushroom_H = Zapshroom (0,5)
+
+Item_Mushroom_J = Silent Shroom (0,5)
+
+Item_Mushroom_L = RazorshroomSchwertling (0,5)
+Item_Mushroom_M = IronshroomRüstling (0,5)
+Item_Mushroom_N = Big Hearty Truffle (3)
+Item_Mushroom_O = Endura Shroom (1)
+_________________________________________________________________
+
+Plants:
+
+Item_Plant_A = Hyrule Herb (1)
+Item_PlantGet_A = Hyrule Herb (1)
+Item_Plant_B = Hearty Radish (2,5)
+Item_PlantGet_B = Hearty Radish (2,5)
+Item_Plant_C = Big Hearty Radish (4)
+Item_PlantGet_C = Big Hearty Radish (4)
+
+Item_Plant_E = Cool Safflina
+Item_PlantGet_E = Cool Safflina
+Item_Plant_F = Warm Safflina
+Item_PlantGet_F = Warm Safflina
+Item_Plant_G = Mighty Thistle
+Item_PlantGet_G = Mighty Thistle
+Item_Plant_H = Armoranth
+Item_PlantGet_H = Armoranth
+Item_Plant_I = Blue Nightshade
+Item_PlantGet_I = Blue Nightshade
+Item_Plant_J = Silent Princess
+Item_PlantGet_J = Silent Princess
+
+Item_Plant_L = Electric Safflina
+Item_PlantGet_L = Electric Safflina
+Item_Plant_M = Swift Carrot (0,5)
+Item_PlantGet_M = Swift Carrot (0,5)
+
+Item_Plant_O = Swift Violet
+Item_PlantGet_O = Swift Violet
+
+Item_Plant_Q = Endura Carrot (2)
+Item_PlantGet_Q =Endura Carrot (2)
+_________________________________________________________________
+
+Meat:
+
+Item_Meat_01 = Raw Meat (1)
+Item_Meat_02 = Raw Prime Meat (1,5)
+
+Item_Meat_06 = Raw Bird Drumstick (1)
+Item_Meat_07 = Raw Bird Thigh (1,5)
+
+Item_Meat_11 = Raw Gourmet Meat (3)
+Item_Meat_12 = Raw Whole Meat (3)
+_________________________________________________________________
+
+Fish:
+
+Item_FishGet_A = Hylian Bass (1)
+Item_FishGet_B = Hearty Bass (2)
+Item_FishGet_C = Chillfin Trout (1)
+Item_FishGet_D = Voltfin Trout (1)
+Item_FishGet_E = Mighty Carp (1)
+Item_FishGet_F = Mighty Porgy (1)
+Item_FishGet_G = Armored Porgy (1)
+Item_FishGet_H = Armored Carp (1)
+Item_FishGet_I = Hearty Salmon (4)
+Item_FishGet_J = Sizzlefin Trout (1)
+Item_FishGet_K = Hearty Blueshell Snail (3)
+Item_FishGet_L = Staminoka Bass (1)
+Item_FishGet_M = Sneaky River Snail (1)
+
+Item_FishGet_X = Stealthfin Trout (1)
+
+Item_FishGet_Z = Sanke Carp (1)
+_________________________________________________________________
+
+insects:
+
+Animal_Insect_A = Hot-Footed Frog
+Animal_Insect_B = Tireless Frog
+Animal_Insect_C = Cold Darner
+
+Animal_Insect_E = Sunset Firefly
+Animal_Insect_F = Fairy (5)
+Animal_Insect_G = Bladed Rhino Beetle
+Animal_Insect_H = Restless Cricket
+Animal_Insect_I = Electric Darner
+
+Animal_Insect_K = Razorclaw Crab (1)
+
+Animal_Insect_M = Hearty Lizard
+Animal_Insect_N = Winterwing Butterfly
+Animal_Insect_O = Ironshell Crab (1)
+Animal_Insect_P = Rugged Rhino Beetle
+Animal_Insect_Q = Summerwing Butterfly
+Animal_Insect_R = Thunderwing Butterfly
+Animal_Insect_S = Hightail Lizard
+Animal_Insect_T = Warm Darner
+
+Animal_Insect_X = Fireproof Lizard
+
+Animal_Insect_Z = Bright-Eyed Crab
+Animal_Insect_AA = Energetic Rhino Beetle
+Animal_Insect_AB = Smotherwing Butterfly
+_________________________________________________________________
+
+Others:
+
+BeeHome = Courser Bee Honey (2)
+Obj_FireWoodBundle = Wood
+_________________________________________________________________
+
+Enemy Items:
+
+Item_Enemy_00 = Bokoblin Horn
+Item_Enemy_01 = Bokoblin Fang
+Item_Enemy_02 = Bokoblin Guts
+Item_Enemy_03 = Lizalfos Horn
+Item_Enemy_04 = Lizalfos Talon
+Item_Enemy_05 = Lizalfos Tail
+Item_Enemy_06 = Moblin Horn
+Item_Enemy_07 = Moblin Fang
+Item_Enemy_08 = Moblin Guts
+
+Item_Enemy_12 = Lynel Horn
+Item_Enemy_13 = Lynel Hoof
+Item_Enemy_14 = Lynel Guts
+Item_Enemy_15 = Red Chuchu Jelly
+Item_Enemy_16 = Yellow Chuchu Jelly
+Item_Enemy_17 = White Chuchu Jelly
+Item_Enemy_18 = Keese Wing
+Item_Enemy_19 = Keese Eyeball
+Item_Enemy_20 = Octorok Tentakcle
+Item_Enemy_21 = Octorok Eyeball
+
+Item_Enemy_24 = Molduga Fin
+Item_Enemy_25 = Molduga Guts
+Item_Enemy_26 = Ancient Gear
+Item_Enemy_27 = Ancient Screw
+Item_Enemy_28 = Ancient Spring
+Item_Enemy_29 = Ancient Shaft
+Item_Enemy_30 = Ancient Core
+Item_Enemy_31 = Giant Ancient Core
+Item_Enemy_32 = Hinox Toenail
+Item_Enemy_33 = Hinox Tooth
+Item_Enemy_34 = Hinox Guts
+
+Item_Enemy_38 = Dinraal's Scale
+Item_Enemy_39 = Dinraal's Claw
+Item_Enemy_40 = Chuchu Jelly
+Item_Enemy_41 = Red Lizalfos Tail
+Item_Enemy_42 = Icy Lizalfos Tail
+Item_Enemy_43 = Yellow Lizalfos Tail
+Item_Enemy_44 = Fire Keese Wing
+Item_Enemy_45 = Electric Keese Wing
+Item_Enemy_46 = Ice Keese Wing
+Item_Enemy_47 = Shard of Dinraal's Fang
+Item_Enemy_48 = Shard of Dinraal's Horn
+Item_Enemy_49 = Naydra's Scale
+Item_Enemy_50 = Naydra's Claw
+Item_Enemy_51 = Shard of Naydra's Fang
+Item_Enemy_52 = Shard of Naydra's Horn
+Item_Enemy_53 = Farosh's Scale
+Item_Enemy_54 = Farosh's Claw
+Item_Enemy_55 = Shard of Farosh's Fang
+Item_Enemy_56 = Shard of Farosh's Horn
+Item_Enemy_57 = Oct Balloon
+_________________________________________________________________
+
+Materials:
+
+Item_Material_01 = Cane Sugar
+Item_Material_02 = Goron Spice
+Item_Material_03 = Hylian Rice (1)
+Item_Material_04 = Bird Egg (1)
+Item_Material_05 = Fresh Milk (0,5)
+Item_Material_06 = Goat Butter
+Item_Material_07 = Tabantha-Wheat (1)
+Item_Material_08 = Monster Extract
+_________________________________________________________________
+
+Ores:
+
+Item_Ore_A = Diamond
+Item_Ore_B = Ruby
+Item_Ore_C = Sapphire
+Item_Ore_D = Topaz
+Item_Ore_E = Opal
+Item_Ore_F = Amber
+Item_Ore_G = Luminous Stone
+Item_Ore_H = Rock Salt
+Item_Ore_I = Flint
+Item_Ore_J = Star Fragment
+_________________________________________________________________
