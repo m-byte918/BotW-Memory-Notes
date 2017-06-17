@@ -9,22 +9,20 @@ it will point to a value that is "invalid"
 
 Object structure also includes structure for enemies.
 
-|  Pointer Notation  | Address it points to |          Notes
-|--------------------|----------------------|-------------------------
-|[43856C88] + 0x0    |Start of object's data|Object's name is in UTF8
-|[43856C88] + 0x50   |Stasis ID             |ID stored when stasis'd, FFFFFFFF = no object stasis'd
-|[43856C88] + 0x274  |Object's size X,Y,Z.  |None
-|[43856C88] + 0x204  |Spoofed X coordinate  |None
-|[43856C88] + 0x214  |Spoofed Y coordinate  |None
-|[43856C88] + 0x224  |Spoofed Z coordinate  |None
-|[43856C88] + 0x794  |Awareness of Link     |FFFFFFFF/00000000 = Doesn't see Link
-|[43856C88] + 0x71C  |If Object is a weapon |FFFFFFFF = Not a weapon
-|[43856C88] + 0x72C  |If Object is a shield |FFFFFFFF = Not a shield
-|[43856C88] + 0x364  |IsStasis'd            |* 1040 = True, 1000 = False
-|[43856C88] + 0x48F  |IsStasis'd x2         |* X01X = Being Targeted, X0XC = Froze, X0X4 = Free
-|[43856C88] + 0x540  |Object Health         |Number of HP is in Decimal
-
-_*_ 1040 = 00001040 (16-bit value).
+|  Pointer Notation| Address it points to |          Notes
+|------------------|----------------------|-------------------------
+|[43856C88] + 0x0  |Start of object's data|Object's name is in UTF8
+|[43856C88] + 0x50 |Stasis ID             |ID stored when stasis'd, FFFFFFFF = no object stasis'd
+|[43856C88] + 0x274|Object's size X,Y,Z.  |None
+|[43856C88] + 0x204|Spoofed X coordinate  |None
+|[43856C88] + 0x214|Spoofed Y coordinate  |None
+|[43856C88] + 0x224|Spoofed Z coordinate  |None
+|[43856C88] + 0x794|Awareness of Link     |FFFFFFFF/00000000 = Doesn't see Link
+|[43856C88] + 0x71C|If Object is a weapon |FFFFFFFF = Not a weapon
+|[43856C88] + 0x72C|If Object is a shield |FFFFFFFF = Not a shield
+|[43856C88] + 0x364|IsStasis'd            |00001040 = True, 00001000 = False
+|[43856C88] + 0x48F|IsStasis'd x2         |*X01X = Being Targeted, X0XC = Froze, X0X4 = Free
+|[43856C88] + 0x540|Object Health         |Number of HP is in Decimal
 
 _*_ X's are bits that may vary depending on the object.
 
@@ -54,7 +52,7 @@ Will not work on every weapon since not all weapons allow bonuses.**
 |[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0xAE0|Equipped Weapon Bonus      |*800000XX = Bonus
 |[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0xAE4|Equipped Weapon Bonus Value|Value is in Decimal
 
-*XX = Bonus value. See [here](https://github.com/Megabyte918/BotW-Cheat-Codes/blob/master/All%20Versions/Equipped%20Weapon%20Bonus%20Modifier) for more information on bonus values.
+*XX = Bonus value. See [here](https://github.com/Megabyte918/BotW-Cheat-Codes/blob/master/All%20Versions/Equipped%20Gear%20Bonus%20Modifier) for more information on bonus values.
 
 ## _Timers_ (v1.2.0, USA)
 | Pointer Notation |Address it points to     |          Notes
