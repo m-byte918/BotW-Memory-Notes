@@ -8,7 +8,7 @@ Controller Address (v1.1.2, USA): 1127115E
 
 Controller Address (v1.1.1, USA): 1127115E
 
-Controller Address (v1.0.0, USA): ????????
+Controller Address (v1.0.0, USA): 102F48AB?
 
 | Value  |    Keypress      |
 |--------|------------------|
@@ -46,9 +46,9 @@ thing applies for the Pro Controller Button Activators below.
 ## _Pro Controller Button Activators_
 Controller Address (v1.1.2, USA): 112671AA
 
-Controller Address (v1.1.1, USA): ????????
+Controller Address (v1.1.1, USA): 112671AB
 
-Controller Address (v1.0.0, USA): ????????
+Controller Address (v1.0.0, USA): 112671AB
 
 | Value  |    Keypress      |
 |--------|------------------|
