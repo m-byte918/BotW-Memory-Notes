@@ -19,7 +19,7 @@ Object structure also includes structure for enemies.
 |[43856C88] + 0x224  |Spoofed Z coordinate  |None
 |[43856C88] + 0x794  |Awareness of Link     |FFFFFFFF/00000000 = Doesn't see Link
 |[43856C88] + 0x71C  |If Object is a weapon |FFFFFFFF = Not a weapon
-|[43856C88] + 0x72C  |If Object is a sheild |FFFFFFFF = Not a sheild
+|[43856C88] + 0x72C  |If Object is a shield |FFFFFFFF = Not a shield
 |[43856C88] + 0x364  |IsStasis'd            |* 1040 = True, 1000 = False
 |[43856C88] + 0x48F  |IsStasis'd x2         |* X01X = Being Targeted, X0XC = Froze, X0X4 = Free
 |[43856C88] + 0x540  |Object Health         |Number of HP is in Decimal
@@ -45,10 +45,10 @@ Will not work on every weapon since not all weapons allow bonuses.**
 |[[[[101C1D40] + 0x2580] + 0xBDC] + 0x40] + 0x990|Equipped Bow Size          |Order: YZX, 3F800000 = Normal
 |[[[[101C1D40] + 0x2580] + 0xBDC] + 0x40] + 0xAE0|Equipped Bow Bonus         |*800000XX = Bonus
 |[[[[101C1D40] + 0x2580] + 0xBDC] + 0x40] + 0xAE4|Equipped Bow Bonus Value   |Value is in Decimal
-|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0x980|Equipped Sheild Durability |Durability Number is in Decimal
-|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0x990|Equipped Sheild Size       |Order: YZX, 3F800000 = Normal
-|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0xAE0|Equipped Sheild Bonus      |*800000XX = Bonus
-|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0xAE4|Equipped Sheild Bonus Value|Value is in Decimal
+|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0x980|Equipped Shield Durability |Durability Number is in Decimal
+|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0x990|Equipped Shield Size       |Order: YZX, 3F800000 = Normal
+|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0xAE0|Equipped Shield Bonus      |*800000XX = Bonus
+|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0xAE4|Equipped Shield Bonus Value|Value is in Decimal
 |[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0x980|Equipped Weapon Durability |Durability Number is in Decimal
 |[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0x990|Equipped Weapon Size       |Order: YZX, 3F800000 = Normal
 |[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0xAE0|Equipped Weapon Bonus      |*800000XX = Bonus
