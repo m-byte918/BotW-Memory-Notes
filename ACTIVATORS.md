@@ -8,7 +8,7 @@ Controller Address (v1.1.2, USA): 1127115E
 
 Controller Address (v1.1.1, USA): 1127115E
 
-Controller Address (v1.0.0, USA): 102F48AB?
+Controller Address (v1.0.0, USA): 102F48A8
 
 | Value  |    Keypress      |
 |--------|------------------|
