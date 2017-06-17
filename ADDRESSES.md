@@ -41,7 +41,7 @@
 |424527A8|Overall Stamina         |Float value, regular max stamina value is 3000
 |401244E4|Weapon Inventory Slots  |Slot number is in Decimal
 |4012A404|Bow Inventory Slots     |Slot number is in Decimal
-|4012A424|Sheild Inventory Slots  |SLot number is in Decimal
+|4012A424|Shield Inventory Slots  |Slot number is in Decimal
 
 ## _Miscellaneous_ (v1.2.0, USA)
 |Address |  What the value is     |   Notes
