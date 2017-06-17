@@ -36,20 +36,25 @@ _*_ X's are bits that may vary depending on the object.
 |[43AD1E30] + 0x770|Link's Damage       |3F800000 = Normal Damage
 
 ## _Gear_ (All Versions, USA)
-|                 Pointer Notation               |   Address it points to  |          Notes
-|------------------------------------------------|-------------------------|-------------------------
-|[[[[101C1D40] + 0x2580] + 0xBDC] + 0x40] + 0x980|Current Bow Durability   |Durability Number is in Decimal
-|[[[[101C1D40] + 0x2580] + 0xBDC] + 0x40] + 0x998|Current Bow Height       |3F800000 = Normal Height
-|[[[[101C1D40] + 0x2580] + 0xBDC] + 0x40] + 0x990|Current Bow Length       |3F800000 = Normal Length
-|[[[[101C1D40] + 0x2580] + 0xBDC] + 0x40] + 0x994|Current Bow Width        |3F800000 = Normal Width
-|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0x980|Current Sheild Durability|Durability Number is in Decimal
-|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0x998|Current Sheild Height    |3F800000 = Normal Height
-|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0x990|Current Sheild Length    |3F800000 = Normal Length
-|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0x994|Current Sheild Width     |3F800000 = Normal Width
-|[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0x980|Current Weapon Durability|Durability Number is in Decimal
-|[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0x998|Current Weapon Height    |3F800000 = Normal Height
-|[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0x990|Current Weapon Length    |3F800000 = Normal Length
-|[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0x994|Current Weapon Width     |3F800000 = Normal Width
+**Drop your weapon then pick it back up after editing bonuses or it might softlock your game.
+Will not work on every weapon since not all weapons allow bonuses.**
+
+|                 Pointer Notation               |   Address it points to    |          Notes
+|------------------------------------------------|---------------------------|-------------------------
+|[[[[101C1D40] + 0x2580] + 0xBDC] + 0x40] + 0x980|Equipped Bow Durability    |Durability Number is in Decimal
+|[[[[101C1D40] + 0x2580] + 0xBDC] + 0x40] + 0x990|Equipped Bow Size          |Order: YZX, 3F800000 = Normal
+|[[[[101C1D40] + 0x2580] + 0xBDC] + 0x40] + 0xAE0|Equipped Bow Bonus         |*800000XX = Bonus
+|[[[[101C1D40] + 0x2580] + 0xBDC] + 0x40] + 0xAE4|Equipped Bow Bonus Value   |Value is in Decimal
+|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0x980|Equipped Sheild Durability |Durability Number is in Decimal
+|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0x990|Equipped Sheild Size       |Order: YZX, 3F800000 = Normal
+|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0xAE0|Equipped Sheild Bonus      |*800000XX = Bonus
+|[[[[101C1D40] + 0x2580] + 0xB80] + 0x40] + 0xAE4|Equipped Sheild Bonus Value|Value is in Decimal
+|[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0x980|Equipped Weapon Durability |Durability Number is in Decimal
+|[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0x990|Equipped Weapon Size       |Order: YZX, 3F800000 = Normal
+|[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0xAE0|Equipped Weapon Bonus      |*800000XX = Bonus
+|[[[[101C1D40] + 0x2580] + 0xB24] + 0x40] + 0xAE4|Equipped Weapon Bonus Value|Value is in Decimal
+
+*XX = Bonus value. See [here](https://github.com/Megabyte918/BotW-Cheat-Codes/blob/master/All%20Versions/Equipped%20Weapon%20Bonus%20Modifier) for more information on bonus values.
 
 ## _Timers_ (v1.2.0, USA)
 | Pointer Notation |Address it points to     |          Notes
