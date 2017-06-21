@@ -17,6 +17,7 @@
 |43859BC8|Cryonis Cooldown Time|None 
 |43856C44|Remote Bomb+ Cooldown|Square bomb only
 |43856C5C|Remote Bomb+ Cooldown|Circular bomb only
+|401343E4|Amiibo availability  |00000000 = No amiibo used today
 
 ## _Link's data_ (v1.2.0, USA)
 |Address |  What the value is     |   Notes
@@ -45,8 +46,3 @@
 |401244E4|Weapon Inventory Slots  |Slot number is in Decimal
 |4012A404|Bow Inventory Slots     |Slot number is in Decimal
 |4012A424|Shield Inventory Slots  |Slot number is in Decimal
-
-## _Miscellaneous_ (v1.2.0, USA)
-|Address |  What the value is     |   Notes
-|--------|------------------------|----------
-|401343E4|Amiibo availability     |00000000 = No amiibo used today
