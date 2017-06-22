@@ -54,7 +54,7 @@ Will not work on every weapon since not all weapons allow bonuses.**
 
 *XX = Bonus value. See [here](https://github.com/Megabyte918/BotW-Cheat-Codes/blob/master/All%20Versions/Equipped%20Gear%20Bonus%20Modifier) for more information on bonus values.
 
-## _Weapon Slots_ (v1.2.0, USA)
+## _[Weapon](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/1%20Handed%20Weapons) Slots_ (v1.2.0, USA)
 Information about weapons within the slots of the "Weapons" section of Link's inventory.
 
 | Pointer Notation  |Address it points to      |          Notes
@@ -65,7 +65,7 @@ Information about weapons within the slots of the "Weapons" section of Link's in
 Subtract 0x220 from the previous slot's offset to get the offset for the next slot's pointer.
 See the "Material Slots" Example below for more clarification.
 
-## _Bow & Arrow Slots_ (v1.2.0, USA)
+## _[Bow](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/Bows) & Arrow Slots_ (v1.2.0, USA)
 Information about bows & arrows within the slots of the "Bows & Arrows" section of Link's inventory.
 
 | Pointer Notation  |Address it points to       |          Notes
@@ -78,7 +78,7 @@ Information about bows & arrows within the slots of the "Bows & Arrows" section 
 Subtract 0x220 from the previous slot's offset to get the offset for the next slot's pointer.
 See the "Material Slots" Example below for more clarification.
 
-## _Shield Slots_ (v1.2.0, USA)
+## _[Shield](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/Shields) Slots_ (v1.2.0, USA)
 Information about shields within the slots of the "Shields" section of Link's inventory.
 
 | Pointer Notation  |Address it points to      |          Notes
@@ -91,7 +91,7 @@ See the "Material Slots" Example below for more clarification.
 If you are looking for the 2nd shield slot, you must subtract 0x1760 (weird). 3rd, 4th, and so on you
 must subtract 0x220 as normal.
 
-## _Armor Slots_ (v1.2.0, USA)
+## _[Armor](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/Armor) Slots_ (v1.2.0, USA)
 Information about armor within the slots of the "Armor" section of Link's inventory.
 
 | Pointer Notation  |Address it points to     |          Notes
@@ -102,7 +102,7 @@ Information about armor within the slots of the "Armor" section of Link's invent
 Subtract 0x220 from the previous slot's offset to get the offset for the next slot's pointer.
 See the "Material Slots" Example below for more clarification.
 
-## _Material Slots_ (v1.2.0, USA)
+## _[Material](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/Items%20(Materials)) Slots_ (v1.2.0, USA)
 Information about items within the slots of the "Material" section of Link's inventory.
 
 | Pointer Notation|Address it points to        |          Notes
@@ -124,7 +124,7 @@ Quantity: -0x220 - 0x220 = -0x430. The pointer would be [43CBAD5C] - 0x430. And 
 
 Name: -0x1FC - 0x220 = -0x41C. The pointer would be [43CBAD5C] - 0x41C. And so on.
 
-## _Food Slots_ (v1.2.0, USA)
+## _[Food](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/Food%20Items) Slots_ (v1.2.0, USA)
 Information about food items within the slots of the "Food" section of Link's inventory.
 
 | Pointer Notation   |Address it points to        |          Notes
@@ -134,7 +134,7 @@ Information about food items within the slots of the "Food" section of Link's in
 Subtract 0x220 from the previous slot's offset to get the offset for the next slot's pointer.
 See the "Material Slots" Example above for more clarification.
 
-## _Key Item Slots_ (v1.2.0, USA)
+## _[Key Item](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/Key%20Items) Slots_ (v1.2.0, USA)
 Information about key items within the slots of the "Key Items" section of Link's inventory.
 
 | Pointer Notation   |Address it points to        |          Notes
