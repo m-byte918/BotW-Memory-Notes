@@ -25,4 +25,16 @@ Object Name Format: Weapon_Bow_XXX
 038 = Wooden Bow
 040 = Duplex Bow
 071 = Bow of Light
-072 = Twilight Bow (Twilight Princess, shoots Light Arrows!)
+072 = Twilight Bow (Twilight Princess)
+
+
+Arrows:
+
+NormalArrow = Arrows
+FireArrow = Fire Arrows
+IceArrow = Ice Arrows
+ElectricArrow = Shock Arrows
+AncientArrow = Ancient Arrow
+BombArrow_A = Bomb Arrows
+BrightArrow = Light Arrows
+BrightArrowTP = Light Arrows (Twilight Princess)
