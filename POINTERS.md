@@ -54,6 +54,29 @@ Will not work on every weapon since not all weapons allow bonuses.**
 
 *XX = Bonus value. See [here](https://github.com/Megabyte918/BotW-Cheat-Codes/blob/master/All%20Versions/Equipped%20Gear%20Bonus%20Modifier) for more information on bonus values.
 
+## _Material Slots_ (v1.2.0, USA)
+Information about items within the slots of the "Material" section of Link's inventory.
+
+| Pointer Notation|Address it points to        |          Notes
+|-----------------|----------------------------|------------------------
+|[43CBAD5C] + 0x10|Quantity of item in 1st Slot|See Below
+|[43CBAD5C] + 0x24|Name of item in 1st Slot    |See Below
+
+Subtract 0x220 from the current pointer's offset to get the offset for the next slot's pointer. 
+
+**Example, finding the pointers for the 2nd slot:**
+
+Quantity: 0x10 - 0x220 = -0x210. The pointer would be [43CBAD5C] - 0x210.
+
+Name: 0x24 - 0x220 = -0x1FC. The pointer would be [43CBAD5C] - 0x1FC.
+
+**Example 2, finding the pointers for the 3rd slot:**
+
+Quantity: -0x220 - 0x220 = -0x430. The pointer would be [43CBAD5C] - 0x430. And so on.
+
+Name: -0x1FC - 0x220 = -0x41C. The pointer would be [43CBAD5C] - 0x41C. And so on.
+
+
 ## _Timers_ (v1.2.0, USA)
 | Pointer Notation |Address it points to     |          Notes
 |------------------|-------------------------|------------------------
