@@ -65,7 +65,7 @@ Information about weapons within the slots of the "Weapons" section of Link's in
 Subtract 0x220 from the previous slot's offset to get the offset for the next slot's pointer.
 See the "Material Slots" Example below for more clarification.
 
-## _[Bow](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/Bows) & Arrow Slots_ (v1.2.0, USA)
+## _[Bow & Arrow](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/Bows%20%26%20Arrows) Slots_ (v1.2.0, USA)
 Information about bows & arrows within the slots of the "Bows & Arrows" section of Link's inventory.
 
 | Pointer Notation  |Address it points to       |          Notes
