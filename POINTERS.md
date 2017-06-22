@@ -54,12 +54,50 @@ Will not work on every weapon since not all weapons allow bonuses.**
 
 *XX = Bonus value. See [here](https://github.com/Megabyte918/BotW-Cheat-Codes/blob/master/All%20Versions/Equipped%20Gear%20Bonus%20Modifier) for more information on bonus values.
 
+## _Weapon Slots_ (v1.2.0, USA)
+Information about weapons within the slots of the "Weapons" section of Link's inventory.
+
+| Pointer Notation  |Address it points to      |          Notes
+|-------------------|--------------------------|------------------------
+|[43CBAD5C] + 0xE384|Name of Weapon in 1st Slot|See Below
+|[43CBAD5C] + 0xE374|Slot 1 Equipped State     |See Below. 00010000 = Unequipped, 01010000 = Equipped
+
+Subtract 0x220 from the previous slot's offset to get the offset for the next slot's pointer.
+See the "Material Slots" Example below for more clarification.
+
+## _Bow & Arrow Slots_ (v1.2.0, USA)
+Information about bows & arrows within the slots of the "Bows & Arrows" section of Link's inventory.
+
+| Pointer Notation  |Address it points to       |          Notes
+|-------------------|---------------------------|------------------------
+|[43CBAD5C] + 0xB904|Name of Bow in 1st Slot    |See Below
+|[43CBAD5C] + 0xB8F4|Slot 1 Bow Equipped State  |See Below. 00010000 = Unequipped, 01010000 = Equipped
+|[43CBAD5C] + 0xA1A4|Name of Arrow in 1st Slot  |See Below
+|[43CBAD5C] + 0xA194|Slot 1 Arrow Equipped State|See Below. 00010000 = Unequipped, 01010000 = Equipped
+
+Subtract 0x220 from the previous slot's offset to get the offset for the next slot's pointer.
+See the "Material Slots" Example below for more clarification.
+
+## _Shield Slots_ (v1.2.0, USA)
+Information about shields within the slots of the "Shields" section of Link's inventory.
+
+| Pointer Notation  |Address it points to      |          Notes
+|-------------------|--------------------------|------------------------
+|[43CBAD5C] + 0x94E6|Name of Sheild in 1st Slot|See Below
+|[43CBAD5C] + 0x94D6|Slot 1 Equipped State     |See Below. 00010000 = Unequipped, 01010000 = Equipped
+
+Subtract 0x220 from the previous slot's offset to get the offset for the next slot's pointer.
+See the "Material Slots" Example below for more clarification.
+If you are looking for the 2nd shield slot, you must subtract 0x1760 (weird). 3rd, 4th, and so on you
+must subtract 0x220 as normal.
+
 ## _Armor Slots_ (v1.2.0, USA)
 Information about armor within the slots of the "Armor" section of Link's inventory.
 
-| Pointer Notation  |Address it points to        |          Notes
-|-------------------|----------------------------|------------------------
-|[43CBAD5C] + 0x7B64|Name of Armor in 1st Slot   |See Below
+| Pointer Notation  |Address it points to     |          Notes
+|-------------------|-------------------------|------------------------
+|[43CBAD5C] + 0x7B64|Name of Armor in 1st Slot|See Below
+|[43CBAD5C] + 0x7B54|Slot 1 Equipped State    |See Below. 00010000 = Unequipped, 01010000 = Equipped
 
 Subtract 0x220 from the previous slot's offset to get the offset for the next slot's pointer.
 See the "Material Slots" Example below for more clarification.
@@ -85,6 +123,26 @@ Name: 0x24 - 0x220 = -0x1FC. The pointer would be [43CBAD5C] - 0x1FC.
 Quantity: -0x220 - 0x220 = -0x430. The pointer would be [43CBAD5C] - 0x430. And so on.
 
 Name: -0x1FC - 0x220 = -0x41C. The pointer would be [43CBAD5C] - 0x41C. And so on.
+
+## _Food Slots_ (v1.2.0, USA)
+Information about food items within the slots of the "Food" section of Link's inventory.
+
+| Pointer Notation   |Address it points to        |          Notes
+|--------------------|----------------------------|------------------------
+|[43CBAD5C] - 0x1609C|Name of food in 1st Slot    |Offset= -0x1609C, See Below
+
+Subtract 0x220 from the previous slot's offset to get the offset for the next slot's pointer.
+See the "Material Slots" Example above for more clarification.
+
+## _Key Item Slots_ (v1.2.0, USA)
+Information about key items within the slots of the "Key Items" section of Link's inventory.
+
+| Pointer Notation   |Address it points to        |          Notes
+|--------------------|----------------------------|------------------------
+|[43CBAD5C] - 0x18B1C|Name of Key Item in 1st Slot|Offset= -0x18B1C, See Below
+
+Subtract 0x220 from the previous slot's offset to get the offset for the next slot's pointer.
+See the "Material Slots" Example above for more clarification.
 
 ## _Timers_ (v1.2.0, USA)
 | Pointer Notation |Address it points to     |          Notes
