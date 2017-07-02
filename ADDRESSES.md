@@ -27,6 +27,10 @@
 |424527A4|Current Stamina         |Float value
 |43A77EA8|Link's Stealth          |00000000 = Completely silent
 
+## _Link's data_ (v1.3.0, USA)
+|Address |  What the value is     |   Notes
+|--------|------------------------|----------
+|4228B0CC|Current Stamina         |Float value
 
 ## _Weather & Skybox_ (v1.2.0, USA)
 |Address |    What the value is    |   Notes
@@ -46,3 +50,9 @@
 |401244E4|Weapon Inventory Slots  |Slot number is in Decimal
 |4012A404|Bow Inventory Slots     |Slot number is in Decimal
 |4012A424|Shield Inventory Slots  |Slot number is in Decimal
+
+## _Savegame data_ (v1.3.0, USA)
+|Address |  What the value is     |   Notes
+|--------|------------------------|----------
+|4228B0C8|Overall Heart Containers|Float value, **4** = 1 conatiner, **120** = 30 containers
+|4228B0D0|Overall Stamina         |Float value, regular max stamina value is 3000
