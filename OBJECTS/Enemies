@@ -126,3 +126,10 @@ Enemy_Wizzrobe_Fire -- Fire Wizzrobe
 Enemy_Wizzrobe_Fire_Senior -- Meteo Wizzrobe
 Enemy_Wizzrobe_Ice -- Ice Wizzrobe
 Enemy_Wizzrobe_Ice_Senior -- Blizzrobe
+
+DLC 1 ENEMIES (v1.3.0):
+  Enemy_AirOctarock -- Sky Octorok
+  Enemy_Bokoblin_Gold -- Golden Bokoblin
+  Enemy_Lizalfos_Gold -- Golden Lizalfos
+  Enemy_Lynel_Gold -- Golden Lynel
+  Enemy_Moriblin_Gold -- Golden Moblin
