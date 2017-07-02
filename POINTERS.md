@@ -77,15 +77,15 @@ Will not work on every weapon since not all weapons allow bonuses.**
 
 *XX = Bonus value. See [here](https://github.com/Megabyte918/BotW-Cheat-Codes/blob/master/All%20Versions/Equipped%20Gear%20Bonus%20Modifier) for more information on bonus values.
 
-## _[Weapon](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/1%20Handed%20Weapons) Slots_ (v1.2.0, USA)
+## _[Weapon](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/1%20Handed%20Weapons) Slots_ (All Versions, USA)
 Information about weapons within the slots of the "Weapons" section of Link's inventory.
 
-| Pointer Notation    |Address it points to      |          Notes
-|---------------------|--------------------------|------------------------
-|[0x43CBAD5C] + 0xE384|Name of Weapon in 1st Slot|See Below
-|[0x43CBAD5C] + 0xE374|Slot 1 Equipped State     |See Below. 00010000 = Unequipped, 01010000 = Equipped
+| Pointer Notation                                     |Address it points to      |          Notes
+|------------------------------------------------------|--------------------------|------------------------
+|[[[[0x101C1D40] + 0x2580] + 0xB24] + 0x40] - 0x34F5724|Name of Weapon in 1st Slot|See Below
+|[[[[0x101C1D40] + 0x2580] + 0xB24] + 0x40] - 0x34F5734|Slot 1 Equipped State     |See Below. 00010000 = Unequipped, 01010000 = Equipped
 
-Subtract 0x220 from the previous slot's offset to get the offset for the next slot's pointer.
+Add 0x220 to the previous slot's LAST offset to get the offset for the next slot's pointer.
 See the "Material Slots" Example below for more clarification.
 
 ## _[Bow & Arrow](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/Bows%20%26%20Arrows) Slots_ (v1.2.0, USA)
