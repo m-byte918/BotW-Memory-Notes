@@ -13,6 +13,12 @@
 |[[0x101C1D40] + 0x2564] + 0x344|Stasis Time Limit    |Float value
 |[[0x101C1D40] + 0x2564] + 0x1B0|Magnesis State       |00000000 = Not Scanning, 01000000 = Scanning
 |[[0x101C1D40] + 0x2564] + 0x1B4|Magnesis Target ID   |ID is unique for every object
+|[[0x101C1D40] + 0x2564] + 0x857F30|Magnesis Availability|3F800000 = Can activate, 00000000 = Cannot activate
+|[[0x101C1D40] + 0x2564] + 0x707234|Cryonis State     |00000000 = Not Scanning, 01000000 = Scanning
+|[[0x101C1D40] + 0x2564] + 0x3558|# of Cryonis Blocks |Increments by 00000001 per block
+|[[0x101C1D40] + 0x2564] + 0x35FC|Cryonis Cooldown Time|Float value
+|[[0x101C1D40] + 0x2564] + 0x2D0|Remote Bomb+ Cooldown|Square bomb only
+|[[0x101C1D40] + 0x2564] + 0x2B8|Remote Bomb+ Cooldown|Circular bomb only
 |[[[[0x101C1D40] + 0x2540] + 0xFFFFF3FC] + 0xFFFFFF30] + 0x10884|Last Amiibo Use Date|Decimal value
 
 ## _Object Structure_ (v1.2.0, USA)
