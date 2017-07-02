@@ -21,27 +21,27 @@
 |[[0x101C1D40] + 0x2564] + 0x2B8|Remote Bomb+ Cooldown|Circular bomb only
 |[[[[0x101C1D40] + 0x2540] + 0xFFFFF3FC] + 0xFFFFFF30] + 0x10884|Last Amiibo Use Date|Decimal value
 
-## _Object Structure_ (v1.2.0, USA)
-All of these stem from the address "43856C88", which is what you are pointing at with the stasis or magnesis rune. 
+## _Object Structure_ (All Versions, USA)
+All of these stem from crosshair ID pointer (see above), which is what you are pointing at with the stasis or magnesis rune. 
 Pointers will only "point" to the correct address/value if you have the rune's crosshairs on a valid object. Otherwise
 it will point to a value that is "invalid"
 
 Object structure also includes structure for enemies.
 
-|  Pointer Notation| Address it points to  |          Notes
-|------------------|-----------------------|-------------------------
-|[0x43856C88] + 0x0|Start of object's data |Object's name is in UTF8
-|[0x43856C88] + 0x50|Stasis ID             |ID stored when stasis'd, FFFFFFFF = no object stasis'd
-|[0x43856C88] + 0x274|Object's size X,Y,Z. |None
-|[0x43856C88] + 0x204|Spoofed X coordinate |None
-|[0x43856C88] + 0x214|Spoofed Y coordinate |None
-|[0x43856C88] + 0x224|Spoofed Z coordinate |None
-|[0x43856C88] + 0x794|Awareness of Link    |FFFFFFFF/00000000 = Doesn't see Link
-|[0x43856C88] + 0x71C|If Object is a weapon|FFFFFFFF = Not a weapon
-|[0x43856C88] + 0x72C|If Object is a shield|FFFFFFFF = Not a shield
-|[0x43856C88] + 0x364|IsStasis'd           |00001040 = True, 00001000 = False
-|[0x43856C88] + 0x48F|IsStasis'd x2        |*X01X = Being Targeted, X0XC = Froze, X0X4 = Free
-|[0x43856C88] + 0x540|Object Health        |Number of HP is in Decimal
+|  Pointer Notation                       | Address it points to|          Notes
+|-----------------------------------------|---------------------|-------------------------
+|[[[0x101C1D40] + 0x2564] + 0x2FC] + 0x0  |Start of object's data|Object's name is in UTF8
+|[[[0x101C1D40] + 0x2564] + 0x2FC] + 0x50 |Stasis ID            |ID stored when stasis'd, FFFFFFFF = no object stasis'd
+|[[[0x101C1D40] + 0x2564] + 0x2FC] + 0x274|Object's size X,Y,Z. |Only applies to objects with health?
+|[[[0x101C1D40] + 0x2564] + 0x2FC] + 0x204|Spoofed X coordinate |None
+|[[[0x101C1D40] + 0x2564] + 0x2FC] + 0x214|Spoofed Y coordinate |None
+|[[[0x101C1D40] + 0x2564] + 0x2FC] + 0x224|Spoofed Z coordinate |None
+|[[[0x101C1D40] + 0x2564] + 0x2FC] + 0x848|Awareness of Link    |Applies to enemies only, FFFFFFFF = Doesn't see Link
+|[[[0x101C1D40] + 0x2564] + 0x2FC] + 0x71C|If Object is a weapon|FFFFFFFF = Not a weapon
+|[[[0x101C1D40] + 0x2564] + 0x2FC] + 0x72C|If Object is a shield|FFFFFFFF = Not a shield
+|[[[0x101C1D40] + 0x2564] + 0x2FC] + 0x364|IsStasis'd           |*104X = True, 100X = False
+|[[[0x101C1D40] + 0x2564] + 0x2FC] + 0x48F|IsStasis'd x2        |*7814 = Being Targeted, 780C = Frozen, 781C = Being Targeted + Frozen, 7804 = Free
+|[[[0x101C1D40] + 0x2564] + 0x2FC] + 0x540|Object Health        |Number of HP is in Decimal
 
 _*_ X's are bits that may vary depending on the object.
 
@@ -49,7 +49,6 @@ _*_ X's are bits that may vary depending on the object.
 | Pointer Notation   |Address it points to|          Notes
 |--------------------|--------------------|------------------------
 |[0x439D89A4] + 0x140|Link's Coordinates  |Relative to map. Order: YZX
-|[0x42274980] + 0x388|Link's Health       |Number of HP is in Decimal
 |[0x43AD1E30] + 0x770|Link's Damage       |3F800000 = Normal Damage
 
 ## _Link's data_ (All Versions, USA)
