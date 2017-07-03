@@ -120,49 +120,49 @@ Information about armor within the slots of the "Armor" section of Link's invent
 |[[0x1093E4C8] + 0x2CC] - 0x67FC|Name of Armor in 1st Slot|See Below
 |[[0x1093E4C8] + 0x2CC] - 0x6A1C|Slot 1 Equipped State    |See Below. 00010000 = Unequipped, 01010000 = Equipped
 
-Subtract 0x220 from the previous slot's offset to get the offset for the next slot's pointer.
+Add 0x220 to the previous slot's last offset to get the offset for the next slot's pointer.
 See the "Material Slots" Example below for more clarification.
 
-## _[Material](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/Items%20(Materials)) Slots_ (v1.2.0, USA)
+## _[Material](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/Items%20(Materials)) Slots_ (All Versions, USA)
 Information about items within the slots of the "Material" section of Link's inventory.
 
-| Pointer Notation  |Address it points to        |          Notes
-|-------------------|----------------------------|------------------------
-|[0x43CBAD5C] + 0x10|Quantity of item in 1st Slot|See Below
-|[0x43CBAD5C] + 0x24|Name of item in 1st Slot    |See Below
+| Pointer Notation              |Address it points to        |          Notes
+|-------------------------------|----------------------------|------------------------
+|[[0x1093E4C8] + 0x2CC] - 0xE350|Quantity of item in 1st Slot|See Below, Decimal value
+|[[0x1093E4C8] + 0x2CC] - 0xE33C|Name of item in 1st Slot    |See Below
 
-Subtract 0x220 from the previous slot's offset to get the offset for the next slot's pointer. 
+Add 0x220 to the previous slot's last offset to get the offset for the next slot's pointer. 
 
 **Example, finding the pointers for the 2nd slot:**
 
-Quantity: 0x10 - 0x220 = -0x210. The pointer would be [43CBAD5C] - 0x210.
+Quantity: 0xE350 + 0x220 = 0xE570. The pointer would be [[0x1093E4C8] + 0x2CC] - 0xE570.
 
-Name: 0x24 - 0x220 = -0x1FC. The pointer would be [43CBAD5C] - 0x1FC.
+Name: 0xE33C + 0x220 = 0xE55C. The pointer would be [[0x1093E4C8] + 0x2CC] - 0xE55C.
 
 **Example 2, finding the pointers for the 3rd slot:**
 
-Quantity: -0x220 - 0x220 = -0x430. The pointer would be [43CBAD5C] - 0x430. And so on.
+Quantity: 0xE570 + 0x220 = 0xE790. The pointer would be [[0x1093E4C8] + 0x2CC] - 0xE790. And so on.
 
-Name: -0x1FC - 0x220 = -0x41C. The pointer would be [43CBAD5C] - 0x41C. And so on.
+Name: 0xE55C + 0x220 = 0xE77C. The pointer would be [[0x1093E4C8] + 0x2CC] - 0xE77C. And so on.
 
-## _[Food](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/Food%20Items) Slots_ (v1.2.0, USA)
+## _[Food](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/Food%20Items) Slots_ (All Versions, USA)
 Information about food items within the slots of the "Food" section of Link's inventory.
 
-| Pointer Notation     |Address it points to        |          Notes
-|----------------------|----------------------------|------------------------
-|[0x43CBAD5C] - 0x1609C|Name of food in 1st Slot    |Offset= -0x1609C, See Below
+| Pointer Notation               |Address it points to        |          Notes
+|--------------------------------|----------------------------|------------------------
+|[[0x1093E4C8] + 0x2CC] - 0x241DC|Name of food in 1st Slot    |Offset= -0x1609C, See Below
 
-Subtract 0x220 from the previous slot's offset to get the offset for the next slot's pointer.
+Add 0x220 to the previous slot's last offset to get the offset for the next slot's pointer.
 See the "Material Slots" Example above for more clarification.
 
-## _[Key Item](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/Key%20Items) Slots_ (v1.2.0, USA)
+## _[Key Item](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/Key%20Items) Slots_ (All Versions, USA)
 Information about key items within the slots of the "Key Items" section of Link's inventory.
 
-| Pointer Notation     |Address it points to        |          Notes
-|----------------------|----------------------------|------------------------
-|[0x43CBAD5C] - 0x18B1C|Name of Key Item in 1st Slot|Offset= -0x18B1C, See Below
+| Pointer Notation               |Address it points to        |          Notes
+|--------------------------------|----------------------------|------------------------
+|[[0x1093E4C8] + 0x2CC] - 0x24C7C|Name of Key Item in 1st Slot|Offset= -0x18B1C, See Below
 
-Subtract 0x220 from the previous slot's offset to get the offset for the next slot's pointer.
+Add 0x220 to the previous slot's last offset to get the offset for the next slot's pointer.
 See the "Material Slots" Example above for more clarification.
 
 ## _Timers_ (v1.2.0, USA)
