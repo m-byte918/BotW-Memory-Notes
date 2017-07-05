@@ -12,10 +12,3 @@ Includes:
 * [Pointer Information, where they lead to, etc](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/POINTERS.md)
 * [Button Activators, for Gamepad and Pro Controller](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/ACTIVATORS.md)
 * [Lists of Objects and their names](https://github.com/Megabyte918/BotW-Memory-Notes/tree/master/OBJECTS)
-* [Memory dump of every address (for creating pointers)](#full-botw-memory-dump-v120-usa)
-
-## Full BotW Memory Dump (v1.2.0, USA)
-From Addresses 0C900000 to 4C8A0000. Can be used to create pointers from any starting address without creating new dumps every time.
-I recommend using BullyWiiPlaza's [Universal Pointer Searcher](https://github.com/BullyWiiPlaza/Universal-Pointer-Searcher) to create pointers using this dump.
-
-[Here is a link to the .bin download (Google Drive)](https://drive.google.com/file/d/0B_zcN8fQAOWxdUhxR25lTnlqZUU/)
