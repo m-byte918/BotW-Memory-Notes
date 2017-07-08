@@ -43,3 +43,50 @@
 |--------|------------------------|----------
 |4228B0C8|Overall Heart Containers|Float value, **4** = 1 conatiner, **120** = 30 containers
 |4228B0D0|Overall Stamina         |Float value, regular max stamina value is 3000
+
+## _Visual Effects_ (v1.3.0, USA)
+|Address |  What the value is    |   Notes
+|--------|-----------------------|------------
+|405FC458|Red-ness of the game   |Float Value
+|405FC45C|Green-ness of the game |Float Value
+|405FC460|Blue-ness of the game  |Float Value
+|405FC458|Red Haze value         |Float Value
+|405FC45C|Green Haze value       |Float Value
+|405FC460|Blue Haze value        |Float Value
+|405FC474|Sky brightness         |Float Value
+|405FC494|Brightness of the sun  |Float Value
+|405FC4D4|Fog amount?            |Float Value
+|406458D4|Glow amount/brightness?|Float Value
+|40645898|General brightness?    |Float Value
+|40645078|Red-ness of the Sky    |Float Value
+|4064507C|Green-ness of the Sky  |Float Value
+|40645080|Blue-ness of the Sky   |Float Value
+|40645094|Sky brightness 2       |Float Value
+
+## _Visual Effects_ (v1.1.1, USA)
+|Address |  What the value is            |   Notes
+|--------|-------------------------------|------------
+|407F5988|Red-ness of the game           |Float Value
+|407F598C|Green-ness of the game         |Float Value
+|407F5990|Blue-ness of the game          |Float Value
+|407F59A4|Red Haze-ish value             |Float Value
+|407F59A8|Green Haze value               |Float Value
+|407F59AC|Blue Haze value                |Float Value
+|407C1AC8|Red air thing?                 |Float Value
+|407C1728|Green fog                      |Float Value
+|407C179C|Red fog                        |Float Value
+|407C1818|Blue fog                       |Float Value
+|407C090C|All colours Glow Radius        |Float Value
+|407C0908|Blue Glow Radius               |Float Value
+|407C0904|Green Glow Radius              |Float Value
+|407C0900|Red Glow Radius                |Float Value
+|407C0970|All Glow Brightness            |Float Value
+|407C0968|Green Glow Brightness          |Float Value
+|407C096C|Blue Glow Brightness           |Float Value
+|407C0964|Red Glow Brightness            |Float Value
+|407F61C4|Overall In game Brightness     |Float Value
+|408D4008|Icons stretch amount upright   |Float Value
+|408D4014|Icons stretch amount down-left |Float Value
+|408D4018|Icons stretch amount down-right|Float Value
+|408D401C|Icon Skew?                     |Float Value
+|407B5C70|The suns distance away from you|Float Value
