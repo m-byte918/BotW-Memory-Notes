@@ -270,6 +270,8 @@ See the "Material Slots" Example above for more clarification.
 |[0x42452678] + 0x2B64               |Master Sword Glow         |00000000 = Not glowing, 00000001 = Glowing
 |[0x10903D74] + 0x50                 |Wolf Link's Health        |Number of HP is in Decimal
 |[[0x3FAB6B1C] + 0xFFFFCA38] + 0x2DD8|Amount of horse whips     |Value decrements by 00010000 per whip
+|[0x407C3D2C] + 0x2E0                |Lightning Strike Coords   |General location, not exact
+|[0x43AD1E30] - 0x10                 |Max Health                |Number of HP is in Decimal
 
 ## _Miscellaneous_ (All Versions, USA)
 | Pointer Notation                                         |Address it points to                    |          Notes
