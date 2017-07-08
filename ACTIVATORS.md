@@ -50,9 +50,9 @@ Controller Address (v1.3.0, USA): 10C74DB0
 
 Controller Address (v1.1.2, USA): 112671AA
 
-Controller Address (v1.1.1, USA): 112671AB
+Controller Address (v1.1.1, USA): 112671AA
 
-Controller Address (v1.0.0, USA): 112671AB
+Controller Address (v1.0.0, USA): 112671AA
 
 | Value  |    Keypress      |
 |--------|------------------|
