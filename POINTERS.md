@@ -75,7 +75,7 @@ Will not work on every weapon since not all weapons allow bonuses.**
 |[[[[0x101C1D40] + 0x2580] + 0xB24] + 0x40] + 0xAE0|Equipped Weapon Bonus      |*800000XX = Bonus
 |[[[[0x101C1D40] + 0x2580] + 0xB24] + 0x40] + 0xAE4|Equipped Weapon Bonus Value|Value is in Decimal
 
-*XX = Bonus value. See [here](https://github.com/Megabyte918/BotW-Cheat-Codes/blob/master/All%20Versions/Equipped%20Gear%20Bonus%20Modifier) for more information on bonus values.
+*XX = Bonus value. See [here](https://github.com/Megabyte918/BotW-Cheat-Codes/blob/master/All%20Versions/Equipped%20Gear%20Bonus%20Modifier%20%5BMegabyte918%5D) for more information on bonus values.
 
 ## _[Weapon](https://github.com/Megabyte918/BotW-Memory-Notes/blob/master/OBJECTS/1%20Handed%20Weapons) Slots_ (v1.3.0, USA)
 Information about weapons within the slots of the "Weapons" section of Link's inventory.
