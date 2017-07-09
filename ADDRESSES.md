@@ -94,17 +94,19 @@
 ## _Link's Model_ (v1.3.0, USA)
 |Address |  What the value is   |   Notes
 |--------|----------------------|------------
-|43809030|Right Leg Size        |Float Value, Order: XZY
-|43908ED8|Right Leg Position    |Float Value, Order: YX
-|43816204|Wallet Size           |Float Value, Order: YXZ
-|43811F6C|Head Facing Direction?|Float Value, Normal = 3F800000?
-|439051F8|Neck Size X           |Float Value, Order: XZY
-|43806E64|Visibility            |Float Value, Normal = 3F800000
-|43806E68|Visibility 2          |Float Value, Normal = 3F800000
-|43806E6C|Visibility 3          |Float Value, Normal = 3F800000
-|43806DA4|Overall Size          |Float Value, Order: YXZ
-|43811F80|Upper Body Size       |Float Value, Order: YXZ
-|43905328|Stomach Size          |Float Value, Order: XZY
+|43809030|Right Leg Size       |Float Value, Order: XZY
+|43908ED8|Right Leg Position   |Float Value, Order: YX
+|43816204|Wallet Size          |Float Value, Order: YXZ
+|43905148|Head Facing Direction|Float Value, Normal = 3F800000?
+|439050C8|Head Size            |Float Value, Order: XZY
+|439051F8|Neck Size            |Float Value, Order: XZY
+|43806E64|Visibility           |Float Value, Normal = 3F800000
+|43806E68|Visibility 2         |Float Value, Normal = 3F800000
+|43806E6C|Visibility 3         |Float Value, Normal = 3F800000
+|43806DA4|Overall Size         |Float Value, Order: YXZ
+|43814484|Overall Size 2       |Float Value, Order: YXZ
+|43811F80|Upper Body Size      |Float Value, Order: YXZ
+|43905328|Stomach Size         |Float Value, Order: XZY
 
 ## _Link's Model_ (v1.0.0, USA)
 |Address |  What the value is       |   Notes
