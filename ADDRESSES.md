@@ -90,3 +90,41 @@
 |408D4018|Icons stretch amount down-right|Float Value
 |408D401C|Icon Skew?                     |Float Value
 |407B5C70|The suns distance away from you|Float Value
+
+## _Link's Model_ (v1.3.0, USA)
+|Address |  What the value is   |   Notes
+|--------|----------------------|------------
+|43809030|Right Leg Size        |Float Value, Order: XZY
+|43908ED8|Right Leg Position    |Float Value, Order: YX
+|43816204|Wallet Size           |Float Value, Order: YXZ
+|43811F6C|Head Facing Direction?|Float Value, Normal = 3F800000?
+|43811F80|Head Size             |Float Value, Order: YXZ
+|439051F8|Neck Size X           |Float Value, Order: XZY
+|43806E64|Visibility            |Float Value, Normal = 3F800000
+|43806E68|Visibility 2          |Float Value, Normal = 3F800000
+|43806E6C|Visibility 3          |Float Value, Normal = 3F800000
+|43806DA4|Overall Size          |Float Value, Order: YXZ
+|43811F80|Upper Body Size       |Float Value, Order: YXZ
+|43905328|Stomach Size          |Float Value, Order: XZY
+
+## _Link's Model_ (v1.0.0, USA)
+|Address |  What the value is       |   Notes
+|--------|--------------------------|------------
+|436C9B20|Head Facing Direction     |Float Value, Normal = 3F800000?
+|436C9B34|Head Size                 |Float Value, Order: YXZ
+|436C9B04|Neck Size                 |Float Value, Order: XZY
+|4369B8EC|Distance from Ground      |Float Value, Normal = 00000000
+|4369B8FC|Visibility                |Float Value, Normal = 3F800000
+|4369B8C8|Overall Size              |Float Value, Order: YXZ
+|436C91A0|Upper Body Size           |Float Value, Order: YXZ
+|436C91DC|Shoulder Size             |Float Value, Order: YXZ
+|436C77B4|Hip Size                  |Float Value, Order: YXZ
+|436C77C0|Lower Body Coordinates    |Float Value, Order: ???
+|4369B8FC|Hitbox distance from Model|Float Value, Normal = 00000000
+
+## _Miscellaneous_ (v1.0.0, USA)
+|Address |  What the value is     |   Notes
+|--------|------------------------|------------
+|4369B8F4|Gravity                 |Normal = 3F800000
+|1074695C|Nearby Object Visibility|Float Value
+|430B0B28|Ground Visibility State |Normal = 3F800000
