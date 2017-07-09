@@ -98,7 +98,6 @@
 |43908ED8|Right Leg Position    |Float Value, Order: YX
 |43816204|Wallet Size           |Float Value, Order: YXZ
 |43811F6C|Head Facing Direction?|Float Value, Normal = 3F800000?
-|43811F80|Head Size             |Float Value, Order: YXZ
 |439051F8|Neck Size X           |Float Value, Order: XZY
 |43806E64|Visibility            |Float Value, Normal = 3F800000
 |43806E68|Visibility 2          |Float Value, Normal = 3F800000
