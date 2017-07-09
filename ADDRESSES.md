@@ -118,6 +118,15 @@
 |4369B8C8|Overall Size              |Float Value, Order: YXZ
 |436C91A0|Upper Body Size           |Float Value, Order: YXZ
 |436C91DC|Shoulder Size             |Float Value, Order: YXZ
+|436C9324|Left Hand Size            |Float Value, Normal = 3F800000
+|436C93E4|Left Hand Size 2          |Float Value, Normal = 3F800000
+|436C9414|Left Hand Size 3          |Float Value, Normal = 3F800000
+|436C9684|Right Arm Size            |Float Value, Normal = 3F800000
+|436C96B4|Right Arm Size 2          |Float Value, Normal = 3F800000
+|436C9714|Right Arm Size 3          |Float Value, Normal = 3F800000
+|436C9204|Left Arm Size             |Float Value, Normal = 3F800000
+|436C9234|Left Arm Size 2           |Float Value, Normal = 3F800000
+|436C9294|Left Arm Size 3           |Float Value, Normal = 3F800000
 |436C77B4|Hip Size                  |Float Value, Order: YXZ
 |436C77C0|Lower Body Coordinates    |Float Value, Order: ???
 |4369B8FC|Hitbox distance from Model|Float Value, Normal = 00000000
