@@ -1,23 +1,22 @@
 # Address notes for Breath of the Wild
 #### This file contains information about certain Addresses and what they do.
 
-## _Runes_ (v1.2.0, USA)
-|Address |  What the value is  |   Notes
-|--------|---------------------|----------
-|401343E4|Amiibo availability  |00000000 = No amiibo used today
-
 ## _Link's data_ (v1.2.0, USA)
 |Address |  What the value is     |   Notes
 |--------|------------------------|----------
 |439D8738|Link's Gravity          |3F800000 = 1x Gravity (Normal)
 |439D8724|Link's Speed            |3F800000 = 1x Speed (Normal)
-|424527A4|Current Stamina         |Float value
+|424527A4|Current Stamina         |Float Value
 |43A77EA8|Link's Stealth          |00000000 = Completely silent
 
 ## _Link's data_ (v1.3.0, USA)
 |Address |  What the value is     |   Notes
 |--------|------------------------|----------
-|4228B0CC|Current Stamina         |Float value
+|4381010C|Link's Jump Height      |Float Value
+|438100F8|Link's Gravity          |3F800000 = 1x Gravity (Normal)
+|438100E4|Link's Speed            |3F800000 = 1x Speed (Normal)
+|4228B0CC|Current Stamina         |Float Value
+|438AF228|Link's Stealth          |Float Value, 00000000 = Completely silent
 
 ## _Weather & Skybox_ (v1.2.0, USA)
 |Address |    What the value is    |   Notes
@@ -27,22 +26,39 @@
 |407CDDA8|Clouds                   |00000000 = Off, 3F800000 = On
 |407CDE1C|Current Weather          |None
 
+## _Weather & Skybox_ (v1.3.0, USA)
+|Address |    What the value is    |   Notes
+|--------|-------------------------|----------
+|40602214|Clouds                   |00000000 = Off, 3F800000 = On
+|40602288|Current Weather          |None
+
 ## _Savegame data_ (v1.2.0, USA)
-|Address |  What the value is     |   Notes
-|--------|------------------------|----------
-|40123BA4|Current Rupees          |Rupee number is in decimal
-|401242E4|Current Mon             |Mon number is in decimal
-|424527A0|Overall Heart Containers|Float value, **4** = 1 conatiner, **120** = 30 containers
-|424527A8|Overall Stamina         |Float value, regular max stamina value is 3000
-|401244E4|Weapon Inventory Slots  |Slot number is in Decimal
-|4012A404|Bow Inventory Slots     |Slot number is in Decimal
-|4012A424|Shield Inventory Slots  |Slot number is in Decimal
+|Address |  What the value is       |   Notes
+|--------|--------------------------|----------
+|40123BA4|Current Rupees            |Decimal Value
+|401242E4|Current Mon               |Decimal Value
+|424527A0|Overall Heart Containers  |Float value, **4** = 1 conatiner, **120** = 30 containers
+|424527A8|Overall Stamina           |Float value, regular max stamina value is 3000
+|401244E0|Max Weapon Inventory Slots|Decimal Value
+|401244E4|Weapon Inventory Slots    |Decimal Value
+|4012A400|Max Bow Inventory Slots   |Decimal Value
+|4012A404|Bow Inventory Slots       |Decimal Value
+|4012A420|Max Shield Inventory Slots|Decimal Value
+|4012A424|Shield Inventory Slots    |Decimal Value
 
 ## _Savegame data_ (v1.3.0, USA)
-|Address |  What the value is     |   Notes
-|--------|------------------------|----------
-|4228B0C8|Overall Heart Containers|Float value, **4** = 1 conatiner, **120** = 30 containers
-|4228B0D0|Overall Stamina         |Float value, regular max stamina value is 3000
+|Address |  What the value is       |   Notes
+|--------|--------------------------|----------
+|3FF52244|Current Rupees            |Decimal Value
+|3FF52984|Current Mon               |Decimal Value
+|4228B0C8|Overall Heart Containers  |Float value, **4** = 1 conatiner, **120** = 30 containers
+|4228B0D0|Overall Stamina           |Float value, regular max stamina value is 3000
+|3FF52B80|Max Weapon Inventory Slots|Decimal Value
+|3FF52B84|Weapon Inventory Slots    |Decimal Value
+|3FF58AA0|Max Bow Inventory Slots   |Decimal Value
+|3FF58AA4|Bow Inventory Slots       |Decimal Value
+|3FF58AC0|Max Sheild Inventory Slots|Decimal Value
+|3FF58AC4|Sheild Inventory Slots    |Decimal Value
 
 ## _Visual Effects_ (v1.3.0, USA)
 |Address |  What the value is    |   Notes
