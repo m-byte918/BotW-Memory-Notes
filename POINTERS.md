@@ -48,13 +48,16 @@ _*_ X's are bits that may vary depending on the object.
 ## _Link's data_ (v1.2.0, USA)
 | Pointer Notation   |Address it points to|          Notes
 |--------------------|--------------------|------------------------
+|[0x42274980] + 0x388|Link's Health       |Number of HP is in Decimal
 |[0x439D89A4] + 0x140|Link's Coordinates  |Relative to map. Order: YZX
 |[0x43AD1E30] + 0x770|Link's Damage       |3F800000 = Normal Damage
 
-## _Link's data_ (All Versions, USA)
-| Pointer Notation            |Address it points to|          Notes
-|-----------------------------|--------------------|------------------------
-|[[0x1001FC20] + 0x8D30] + 0x388|Link's Health       |Number of HP is in Decimal
+## _Link's data_ (v1.3.0, USA)
+| Pointer Notation              |Address it points to|          Notes
+|-------------------------------|------------------|------------------------
+|[[0x109387CC] - 0xB1C] + 0x540 |Link's Health     |Number of HP is in Decimal
+|[[0x3F93B768] + 0x338] + 0x140 |Link's Coordinates|Relative to map. Order: YZX
+|[[0x109387CC] - 0xB1C] + 0x1AA0|Link's Damage     |3F800000 = Normal Damage
 
 ## _Gear_ (All Versions, USA)
 **Drop your weapon then pick it back up after editing bonuses or it might softlock your game.
@@ -264,10 +267,24 @@ See the "Material Slots" Example above for more clarification.
 |[0x43AD2220] + 0x464|Daruk's Protection Timer |Float value
 |[0x43AD2220] + 0x47C|Mipha's Grace Timer      |Float value
 
+## _Timers_ (v1.3.0, USA)
+| Pointer Notation                   |Address it points to     |          Notes
+|------------------------------------|-------------------------|------------------------
+|[[0x109387CC] + 0xFFFFF4E4] + 0x1840|Master Sword Charge Timer|40200000 = Power Restored
+|[[0x109387CC] + 0xFFFFF4E4] + 0x1828|Urbosa's Fury Timer      |Float value
+|[[0x109387CC] + 0xFFFFF4E4] + 0x1810|Revali's Gale Timer      |Float value
+|[[0x109387CC] + 0xFFFFF4E4] + 0x181C|Daruk's Protection Timer |Float value
+|[[0x109387CC] + 0xFFFFF4E4] + 0x1834|Mipha's Grace Timer      |Float value
+
+## _Miscellaneous_ (v1.3.0, USA)
+| Pointer Notation                   |Address it points to      |          Notes
+|------------------------------------|--------------------------|------------------------
+|[[0x109387CC] + 0xFFFFF3F0] + 0x2E6C|Master Sword Glow         |00000000 = Not glowing, 01000000 = Glowing
+
 ## _Miscellaneous_ (v1.2.0, USA)
 | Pointer Notation                   |Address it points to      |          Notes
 |------------------------------------|--------------------------|------------------------
-|[0x42452678] + 0x2B64               |Master Sword Glow         |00000000 = Not glowing, 00000001 = Glowing
+|[0x42452678] + 0x2B64               |Master Sword Glow         |00000000 = Not glowing, 01000000 = Glowing
 |[0x10903D74] + 0x50                 |Wolf Link's Health        |Number of HP is in Decimal
 |[[0x3FAB6B1C] + 0xFFFFCA38] + 0x2DD8|Amount of horse whips     |Value decrements by 00010000 per whip
 |[0x407C3D2C] + 0x2E0                |Lightning Strike Coords   |General location, not exact
