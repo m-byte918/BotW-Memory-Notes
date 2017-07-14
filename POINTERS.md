@@ -1,5 +1,4 @@
 # Pointer notes for Breath of the Wild
-
 #### This file contains information about certain Pointers and where they lead to.
 
 ## _Runes_ (All Versions, USA)
