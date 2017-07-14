@@ -17,6 +17,7 @@
 |438100E4|Link's Speed            |3F800000 = 1x Speed (Normal)
 |4228B0CC|Current Stamina         |Float Value
 |438AF228|Link's Stealth          |Float Value, 00000000 = Completely silent
+|43907954|Link's Defense          |Increases with amount of Armor
 
 ## _Weather & Skybox_ (v1.2.0, USA)
 |Address |    What the value is    |   Notes
@@ -24,13 +25,19 @@
 |407CE158|Lightning strike Interval|Normal delay is about 00000080
 |3FF8E72B|If Blood moon is tonight |00000000 = False, 00000001 = True
 |407CDDA8|Clouds                   |00000000 = Off, 3F800000 = On
-|407CDE1C|Current Weather          |None
+|407CDE1C|Current Weather          |*See Below
+
+*See [here](https://github.com/Megabyte918/BotW-Cheat-Codes/blob/master/v1.2.0/Weather%20%26%20Skybox%20Modifier%20%5BSkoolzout1%5D) for more information on weather effects.
 
 ## _Weather & Skybox_ (v1.3.0, USA)
-|Address |    What the value is    |   Notes
-|--------|-------------------------|----------
-|40602214|Clouds                   |00000000 = Off, 3F800000 = On
-|40602288|Current Weather          |None
+|Address |    What the value is        |   Notes
+|--------|-----------------------------|----------
+|406025C0|Lightning Sky Effect Duration|Decimal Value
+|406025C4|Lightning Strike Buildup     |Decimal Value
+|40602214|Clouds                       |00000000 = Off, 3F800000 = On
+|40602288|Current Weather              |*See Below
+
+*See [here](https://github.com/Megabyte918/BotW-Cheat-Codes/blob/master/v1.3.0/Weather%20%26%20Skybox%20Modifier%20%5BSkoolzout1%5D) for more information on weather effects.
 
 ## _Savegame data_ (v1.2.0, USA)
 |Address |  What the value is       |   Notes
@@ -147,6 +154,15 @@
 |436C77B4|Hip Size                  |Float Value, Order: YXZ
 |436C77C0|Lower Body Coordinates    |Float Value, Order: ???
 |4369B8FC|Hitbox distance from Model|Float Value, Normal = 00000000
+
+## _Miscellaneous_ (v1.3.0, USA)
+|Address |  What the value is     |   Notes
+|--------|------------------------|------------
+|405FFFF0|Current Time            |*See Below
+|405FFFF8|Current Time 2          |*See Below
+|405FFFFC|Speed of Time           |Float Value, 3C088889 = Normal
+
+See [here](https://github.com/Megabyte918/BotW-Cheat-Codes/blob/master/v1.3.0/Freeze%20a%20Specific%20Time%20%5BSkoolzout1%5D) for more information on time.
 
 ## _Miscellaneous_ (v1.0.0, USA)
 |Address |  What the value is     |   Notes
